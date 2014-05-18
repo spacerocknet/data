@@ -19,3 +19,44 @@ Sports|In american football, how many points are scored for a touchdown|6|5|4|3
 Sports|Which of these teams' coaches would wear the same uniform as the players|New York Yankees|New York Giants|New York Knicks|New York Rangers
 Sports|What trophy was found at the bottom of Mario Lemieux's swimming pool in 1991|Stanley Cup|Jules Rimet Trophy|Borg Warner|Heisman Trophy
 Sports|Goal Shooter and Goal Attack are the only players that can score in which sport|Netball|Lacrosse|Ice Hockey|Aussie Rules Football
+Sports|How many players are in a netball team|7|5|9|6
+Sports|Larry Bird was a champion in which sport|Basketball|Volleyball|Baseball|Tennis
+Sports|How many baseball gloves can be made with the leather from one cow|5|25|55|1
+Sports|A team in which of these sports would have the most positions for people to play|Soccer|Baseball|Water polo|Volleyball
+Sports|Still popular in Australia and New Zealand, netball used to be known as the "women's version of what sports|Basketball|Ice Hockey|Tennis|Soccer
+Sports|On ABC's Wide World of Sports, who promised us 'the thrill of victory, the agony of defeat'|Jim McKay|Don Meredith|Howard Cosell|Keith Jackson|Keith Jackson
+Sports|Which structure was also known as 'The House that Ruth Built'|Yankee Stadium|The Chrysler Building|Madison Square Garden|Fenway park
+Sports|How many times did cylist Miguel Indurain win the Tour de France in the 1990s|5|0|2|8
+Sports|Like handball and water polo, Harry Potter's quidditch requires how many players on a team|7|5|8|3
+Sports|Vinko Bogataj, a ski jumper, illustrated 'the agony of defeat' on what ABC series|Wide World of Sports|That's Incredible|Nightline|Bugs Bunny
+Sports|What event, first held in Bangkok in 2005, has included billards and snooker, bodybuilding, chess and table tennis|Asian Indoor Games|Commonwealth Indoor Games|All-Africa Indoor Games|Pan American Indoor Games
+Sports|Only three sports are won by moving backward. Which of these is NOT one of them|High jump|Backstroke swimming|Rowing|Tug of war
+Sports|What brand of tennis balls are used at Wimbledon|Slazenger|Penn|Dunlop|Spalding
+Sports|What was the first live sporting event on TV|Boxing match|Football game|Golf round|Baseball game
+Sports|Who won the 2000 NBA Title|LA Lakers|New Jersey Nets|New York Knicks|Chicago Bull
+Sports|What future track star also helped the University of North Carolina win the NCAA title while on a basketball scholarship|Marion Jones|Florence Griffith-Joyner|Jackie Joyner|Whilma Rudolph
+Sports|As at 2013, how many Summer Olympics have been in the southern hemisphere|2|4|3|1
+Sports|For which English soccer club did George Best mostly play|Manchester United|Liverpool|Sunderland|West ham United
+Sports|'El Tri' is the nickname for which national footbal team|Mexico|Switzerland|Germany|Greece
+Sports|Whose teammates have included Michael Jordan and Hulk Hogan|Dennis Rodman|Ron Artest|Charles Barkley|John Stockton
+Sports|A 'Miller' is a move in which sport|Ice Hockey|Diving|Chess|Trampolining
+Sports|Diego Maradona played soccer for which country|Argentina|Mexico|Brazil|Spain
+Sports|Figure skater Kwan Ying Shan was named by her Chinese immigrant parents for a Beatles' song. What name did they pick|Michelle|Madonna|Eyna|Whitney
+Sports|Which city hosted the 1992 summer Olympic games|Barcelona|Moscow|Atlanta|Seoul
+Sports|What sport is governed by the Federation Internationale des Quilleurs, which lists more than 110 countries as members|Bowling|Archery|Soccer|Fencing
+Sports|Oddly enough, Denmark is the strongest non-Asian country in what Olympic sport with Anglo-Indian origins|Badminton|Taekwondo|Table Tennis|Judo
+Sports|How many players per side are on a basketball court at any given moment|5|6|7|4
+Sports|What triathlon originally finished at Aloha Tower|Iron Man|Shazam|Flash|Superman
+Sports|Claiming to have been inspired by Greek ball games, what sports did Major Walter Wingfield introduce in 1873 as Sphairistlike|Lawn tennis|Badminton|Rugby|Cricket
+Sports|Lew Hoad was a superstar in which sport in the 1950s|Tennis|Baseball|Soccer|Football
+Sports|In 1960, where were the first official Paralympic Games held|Rome|Munich|New York City|Melbourne
+Sports|'Skijoring' is like skiing, combined with something else. What| Dog mushing|Motorcycling|Ping pong|Skeet shooting
+Sports|The Harlem Globetrotters play which sport|Basketball|Ice Hockey|Baseball|Soccer
+Sports|While studying anthropometry at Harvard in 1901, Constance 'Apple' Applebee introduced American women to what sport|Field hockey|Tennis|Boating|Golf
+Sports|How many players are there in bandy team|11|13|15|20
+Sports|If you're watching dog racing down at the track, then which of these animals is most likely to be running|Greyhounds|Whippets|Salukis|St. Bernards
+Sports|The first X Games were held in Rhode Island. When|1995|1985|1970|1990
+Sports|In what month is the Super bowl played|February|December|January|May
+Sports|What number was worn by baseball's Mickey Mantle, hockey's Phil Esposito, football's John Elway and soccer's David Beckham|7|10|9|11
+Sports|What sport is like water skiing on a surfboard|Wakeboarding|Showboating|Powerboating|Waterboarding
+

@@ -13,3 +13,24 @@ Movies|Who directed a 2011 adaptation of 'Jane Eyre' starring Mia Wasikowska|Sha
 Movies|What is the sub-title of the 2002 Lord of the Rings movie|The Two Towers|The Return of the King|Rise of the Witch King|The Fellowship of the Ring
 Movies|Who played the role of Bruce Banner in the 2008 film 'The incredible Hulk'|Edward Norton|Tim Roth|Mark Ruffalo|Eric Bana
 Movies|Who played Peter Parker in the Spiderman re-boot 'The Amazing Spider-Man'|Andrew Garfield|Johnny Depp|James Marsden|Tobey Maguire
+Movies|What actor's younger brother is in the film 'Now You See Me'|James Franco|Al Pacino|Ed Norton|Tobey Maguire
+Movies|The 2003 Pixar film, 'Finding Nemo', starred which voice actress as Dory|Ellen DeGeneres|Sarah Silverman|Kathy Griffin|Oprah Winfrey
+Movies|Who directed the James Bond film 'Skyfall'|Sam Mendes|James Cameron|Joel Schumacher|Jack Black
+Movies|Who plays the wife of Abraham Lincoln in the 2012 movie 'Lincoln'|Sally Field|Kirsten Dunst|Sean Young|Angela Bassett
+Movies|How many Academy Awards has the 'Pirates of the Caribbean' series won|1|2|3|0
+Movies|What sport did 'Billy Elliot' practice before taking up ballet|Boxing|Roller hockey|Soccer|Tennis
+Movies|In the movie 'Shakespeare in Love', Ethel the Pirate's Daughter becomes what heroine|Juliet|Desdemona|Cordelia|Ophelia
+Movies|What actor has roles in the movies 'Kingpin', 'Wild Things' and 'What About Bob'|Bill Murray|Richard Dreyfuss|Matt Dillon|Woody Harrelson
+Movies|Rutger Hauer stars as the 'Hobo with' what weapon in a 2011 film by Jason Eisener|Shotgun|Rocket Launcher|Butcher Knife|Shovel
+Movies|Who played the role of Lois Lane in the 2013 movie 'Man of Steel'|Amy Adams|Diane Lane|Jennifer Lawrence|Anne Hathaway
+Movies|Which actor voiced both Winnie Pooh and Tigger in a 2011 film directed by Stephen J. Anderson and Don Hall|Jim Cummings|Travis Oates|John Cleese|Tom Kenny
+Movies|Which actor did not reprise his role as Malcom Turner's sidekick John in 'Big Momma's House 2'|Paul Giamatti|Will Ferrell|Rob Schneider|Jeremy Piven
+Movies|Which actor in 'This is The End' is possessed by a demon|Jonah Hill|Seth Rogen|Craig Robinson|Jason Segel
+Movies|Who starred with Mark Ruffalo in the 2004 romantic comedy '13 Going on 30'|Jennifer Garner|Amy Adams|Jessica Biel|Sarah Jessica Parker
+Movies|How many times hs Meryl Streep been nominated for an Oscar|18|17|20|15
+Movies|The main characters in 'American Hustle' bond together over their appreciation for whose music|Duke Ellington|Conway Twitty|Count Basie|Ray Charles
+Movies|In the film 'The Purge', criminal activity is allowed for how many hours|12|4|20|40
+Movies|What type of fish is Nemo in the Pixar film 'Finding Nemo'|Clownfish|Dolphin|Shark|Salmon
+Movies|Which Chinese drama saw an American release thanks to a personal intervention by Rupert Murdoch|Snow Flower and the Secret Fan|The Black Rose|Chan is Missing|The Left Hand of God
+Movies|What is the sub-title of the 2010 sequel to 'Wall Street'|Money Never Sleeps|Back on the Floor|The Full Force|The City Never Sleeps
+Movies|Who directed 'The Wolf of Wall Street'|Martin Scorsese|Peter Jackson|Terence Winter|David O. Russell
