@@ -1,28 +1,178 @@
-Geographies|Where is Lithuania|In EU|In US|In Asia|In Australia
-Geographies|Milan is a city in which Italian Region|Lombardy|Tuscany|Piedmonth|Sicilia
-Geographies|Which of these is a city in Switzerland|Geneva|InnsBruck|LilyHammer|Hesse
-Geographies|The largest ancient castle in the world is located in this city|Prague|Memphis|Bejing|Cairo
-Geographies|Which of these is a city in Paraguay|San Lorenzo|Oruro|Saltao|La Plato
-Geographies|Genoa is a major city in which Eurupean country|Italy|Bulgari|France|Russia
-Geographies|Mount Catherine has been the highest point in two different countries.  Where is it|Sinai Peninsula|Kurdistan|Kuwait|Golan Heights
-Geographies|Which of these countries does Oman NOT share a border with|Kuwait|Yemen|United Arab Emirates|Saudi Arabia
-Geographies|What Arab nation has the highest percentage of Christian|Lebanon|Egypt|Syria|Iraq
-Geographies|What was the only country ever to have archdukes, although it doesn't anymore|Austria|Germany|Netherlands|Austria
-Geographies|A Massachusetts cape is named for what state fish|Code|Trout|Salmon|Bass
-Geographies|What Hawaiian 'Garden Island' stood in for both Gilligan's Island and Fantasy Island|Kauai|Oahu|Molokai|Maui
-Geographies|Since 1931, thousands of worthy people have been named 'Admiral in the Great Navy' of what landlocked state|Nebraska|Maryland|Pennsylvania|Californai
-Geographies|What time zone has the most US states within in|Eastern|Mountain|Pacific|Central
-Geographies|Which destination for 60s hippies has been called the Paris of the Sahara|Marrakesh|Cairo|Tripolis|Luxor
-Geographies|The name 'Ghana' is taken from a term in the native language that means what|Warrior King|Independent Nation|Powerful Army|Strong people
-Geographies|What real estate term also refers to joint sovereignty by two countries over a territory|Condominium|Title|Escrow|Amortization
-Geographies|Of the countries with at least 25 million people, which one is by far the most densely populated|Bangladesh|South Korea|Japan|Cuba|Monaco
-Geographies|The oldest film festival in the world takes place in which European city|Venice|Edinburgh|Cannes|Paris
-Geographies|No part of what state is more than 85 miles from the Great Lakes|Michigan|Nevada|Illinois|Oregon
-Geographies|What is the origin of the country of Georgia|St. George|Lake Georgia|Russian for 'Mountainous land'|Tsar George
-Geographies|Ironically, what state's 'Live Free or Die' license plates are made by prisoners in Concord|New Hampshire|Delaware|Maine|Vermont
-Geographies|Only two US state capitals are found on the Mississippi. One is Baton Rouge. What is the other|Saint Paul|Jackson|Memphis|Saint Louis
-Geographies|The Valdes Peninsula is the lowest point on which continent|South America|Europe|Australia|Antarctic
-Geographies|What river, the second longest in Europe, originates in the Black Forest town of Donaueschingen|Danube|Elbe|Rhine|Volga
-Geographies|Into which body of water does the Rhine river flow|North Sea|Baltic Sea|Black Sea|Caspian Sea
-Geographies|What country does not border Afghanistan|India|Uzbekistan|China|Pakistan
-Geographies|What is the only US state to both border the Atlantic Ocean and to stretch into the Central Time Zone|Florida|Tennessee|Texas|Nebraska
+Geographies|Where is Lithuania|Europe|America|Asia|Australia|1
+Geographies|Milan is a city in which Italian Region|Lombardy|Tuscany|Piedmonth|Sicilia|1
+Geographies|Which of these is a city in Switzerland|Geneva|InnsBruck|LilyHammer|Hesse|1
+Geographies|The largest ancient castle in the world is located in this city|Prague|Memphis|Bejing|Cairo|2
+Geographies|Which of these is a city in Paraguay|San Lorenzo|Oruro|Saltao|La Plato|1
+Geographies|Genoa is a major city in which Eurupean country|Italy|Bulgari|France|Russia|1
+Geographies|Mount Catherine has been the highest point in two different countries.  Where is it|Sinai Peninsula|Kurdistan|Kuwait|Golan Heights|2
+Geographies|Which of these countries does Oman NOT share a border with|Kuwait|Yemen|United Arab Emirates|Saudi Arabia|2
+Geographies|What Arab nation has the highest percentage of Christian|Lebanon|Egypt|Syria|Iraq|2
+Geographies|What was the only country ever to have archdukes, although it doesn't anymore|Austria|Germany|Netherlands|Austria|2
+Geographies|A Massachusetts cape is named for what state fish|Code|Trout|Salmon|Bass|2
+Geographies|What Hawaiian 'Garden Island' stood in for both Gilligan's Island and Fantasy Island|Kauai|Oahu|Molokai|Maui|1
+Geographies|Since 1931, thousands of worthy people have been named 'Admiral in the Great Navy' of what landlocked state|Nebraska|Maryland|Pennsylvania|Californai|2
+Geographies|What time zone has the most US states within in|Eastern|Mountain|Pacific|Central|1
+Geographies|Which destination for 60s hippies has been called the Paris of the Sahara|Marrakesh|Cairo|Tripolis|Luxor|2
+Geographies|The name 'Ghana' is taken from a term in the native language that means what|Warrior King|Independent Nation|Powerful Army|Strong people|2
+Geographies|What real estate term also refers to joint sovereignty by two countries over a territory|Condominium|Title|Escrow|Amortization|1
+Geographies|Of the countries with at least 25 million people, which one is by far the most densely populated|Bangladesh|South Korea|Japan|Monaco|1
+Geographies|The oldest film festival in the world takes place in which European city|Venice|Edinburgh|Cannes|Paris|1
+Geographies|No part of what state is more than 85 miles from the Great Lakes|Michigan|Nevada|Illinois|Oregon|1
+Geographies|What is the origin of the country of Georgia|St. George|Lake Georgia|Russian for 'Mountainous land'|Tsar George|1
+Geographies|Ironically, what state's 'Live Free or Die' license plates are made by prisoners in Concord|New Hampshire|Delaware|Maine|Vermont|2
+Geographies|Only two US state capitals are found on the Mississippi. One is Baton Rouge. What is the other|Saint Paul|Jackson|Memphis|Saint Louis|2
+Geographies|The Valdes Peninsula is the lowest point on which continent|South America|Europe|Australia|Antarctic|2
+Geographies|What river, the second longest in Europe, originates in the Black Forest town of Donaueschingen|Danube|Elbe|Rhine|Volga|1
+Geographies|Into which body of water does the Rhine river flow|North Sea|Baltic Sea|Black Sea|Caspian Sea|1
+Geographies|What country does not border Afghanistan|India|Uzbekistan|China|Pakistan|1
+Geographies|What is the only US state to both border the Atlantic Ocean and to stretch into the Central Time Zone|Florida|Tennessee|Texas|Nebraska|1
+Geographies|By area, what is the biggest state in the USA|Alaska|Arizona|Missouri|New York|1
+Geographies|What is the name of the highest mountain on Earth|Mt Everest|Rocky Mountains|K2|Makalu|1
+Geographies|Helsinki is the capital city of which country|Finland|China|Australia|U.S.|2
+Geographies|Which country has the most people|China|Japan|India|Bangladesh|1
+Geographies|How many states are there in the USA|50|55|60|70|1
+Geographies|What language is spoken in New Zealand|English|French|Spanish|Igbo|1
+Geographies|In what city would you find Charing Cross station|London|New York|Amsterdam|Chicago|3
+Geographies|Which country lies directly above the US|Canada|Colombia|Germany|Mexico|2
+Geographies|The Leaning Tower of Pisa is in which European country|Italy|Spain|Russia|Germany|1
+Geographies|Which country's capital city is Berlin|Germany|Bolivia|Cuba|Ireland|1
+Geographies|On which continent would you find the South Pole|Antarctica|Asia|Europe|South America|2
+Geographies|What is the capital city of Australia|Canberra|Sydney|Broken Hill|Melbourne|1
+Geographies|What is the capital of Texas|Austin|Houston|Waco|Beasley|3
+Geographies|How many continents are there|7|8|6|5|1
+Geographies|On what continent is Mexico|North America|Asia|Russia|South America|2
+Geographies|Which of the following is not a real ocean|Red|Atlantic|Pacific|Indian|1
+Geographies|On what continent is the highest mountain in the world located|Asia|North America|Europe|Antarctica|1
+Geographies|Which is the only continent without a desert|Antarctica|Asia|Europe|South America|2
+Geographies|Magyars are the people of which country|Hungary|Slovakia|Romania|Moldova|3
+Geographies|What is the capital of Armenia|Yerevan|Baku|Tbilisi|Bataysk|3
+Geographies|The Chukchi Sea is north of which sea|Bering Sea|Norwegian Sea|White Sea Beaufort Sea|South China Sea|2
+Geographies|Which country occupies most of Cisjordan|Israel|Jordan|Egypt|Turkey|3
+Geographies|Lebanon gained independence from which country in 1943|France|United Kingdom|Germany|Spain|3
+Geographies|Rarotonga is an island of which country|New Zealand|United States|New Zealand|Fiji|2
+Geographies|Within which country can two other independent countries be found|Italy|South Africa|Canada|Russia|3
+Geographies|The Electoral Palatinate was a historic region along which river|Dnieper|Ural| Danube|Rhine|3
+Geographies|Which Canadian province is located on the north shore of Lake Erie|Ontario|Quebec|Manitoba|Saskatchewan|2
+Geographies|The Boston Mountains are primarily located within which U.S. state|Arkansas| Florida|Arkansas|Massachusetts|2
+Geographies|The east coast of Nicaragua is called what|Mosquito Coast|Orange Coast|Gold Coast|Leper Coast|2
+Geographies|Which country lies along the equator|Ecuador|Venezuela|Bolivia|Uruguay|1
+Geographies|What is the name of the biggest ocean on Earth|Pacific Ocean|Atlantic Ocean|Indian Ocean|Arctic Ocean|1
+Geographies|Near which country would you find the Laccadive Sea|Maldives|Philippines|Indonesia|Seychelles|2
+Geographies|The Allegheny Mountains pass through which U.S. state|Pennsylvania|Georgia|Ohio|Nevada|2
+Geographies|The population pyramid of which country would be most pyramid-shaped|Malawi|Brazil|Japan|Ukraine|3
+Geographies|What is the most populous urban area in India|Mumbai|Delhi|Kolkata|Chennai|2
+Geographies|Which country was the first to allow women to vote, in 1893|New Zealand|Australia|South Africa|Netherlands|3
+Geographies|From which country is the President of the European Commission|Portugal|Spain|Italy|Luxembourg|2
+Geographies|What is the longest numbered road in the United Kingdom|A1|M25|A696|A38|2
+Geographies|What is the approximate driving time between Amsterdam and Berlin|6 hours|8 hours|10 hours|12 hours|1
+Geographies|What is the capital of Maine|Augusta|Bangor|Portland|Brunswick|2
+Geographies|Liberia borders which country|Guinea|Gambia|Ghana|Gabon|3
+Geographies|Which country is directly east of Halifax, Nova Scotia, Canada|France|Portugal|Ireland|Morocco|3
+Geographies|Which country does not have a voting age of 16|Ghana|Cuba|Austria|Iran|2
+Geographies|Which place is least populated, with approximately 48 inhabitants|Pitcairn Islands|Christmas Island|Svalbard|Niue|3
+Geographies|The Galapagos Islands are a territory of which country|Ecuador|Colombia|Chile|Peru|2
+Geographies|The Coral Sea is located off the coast of which continent|Australia|Europe|Africa|Asia|1
+Geographies|What is the approximate population of Mexico|110 million|95 million|180million|230 million|3
+Geographies|What is the second tallest mountain in Africa|Mount Kenya|Meru|Margherita Peak|Mt. Karisimbi|2
+Geographies|Which country has the highest percentage of Roman Catholics, at 94%|Spain|France|Portugal|Italy|2
+Geographies|What is the capital of Iceland|Reykjavik|Dublin|Oslo|Helsinki|2
+Geographies|Which country lies on the equator|Brazil|Mexico|Chile|Argentina|2
+Geographies|The Yellow Sea lies between China and which other country|South Korea|Philippines|Indonesia|Taiwan|2
+Geographies|Which German city served as the country's capital from 1990 to 1999|Bonn|Frankfurt am Main|Munich|Hamburg|2
+Geographies|Which African country does not contain part of the Sahara Desert|Ethiopia|Niger|Algeria|Libya|3
+Geographies|The world's busiest passenger airport is located in which U.S. city|Atlanta|New York|Los Angeles|Chicago|1
+Geographies|Which Canadian province is located directly north of Washington State|British Columbia|Quebec|Manitoba|Alberta|2
+Geographies|Which mountain range lies between the Caspian Sea and the Black Sea|Caucasus|Andes|Alps|Himalayas|1
+Geographies|What is the official language of Iran|Persian|English|Kurdish|Arabic|2
+Geographies|The Ungava Peninsula in Canada is part of which province|Quebec|Alberta Saskatchewan|Ontario|Alberta|2
+Geographies|The Cayman Islands are a territory of which country|United Kingdom|Australia|United States|France|1
+Geographies|Not including Taiwan, how many provinces comprise China|22|31|34|39|1
+Geographies|What is the capital of Qatar|Doha|Ashgabat|Muscat|Ashgabat|2
+Geographies|How many emirates compose the United Arab Emirates|seven|nine|fourteen|eighteen|1
+Geographies|Which South American capital does not lie on the ocean|Santiago|Paramaribo|Montevideo|Lima|1
+Geographies|Where was the planned Teleport Town to have been located|Tokyo|Mexico City|Mumbai|Moscow|2
+Geographies|CN Tower is found in which city|Toronto|Vancouver|Montreal|Quebec City|3
+Geographies|Which city is not in the same time zone as Reykjavik|Oslo|Dublin|Rabat|Accra|3
+Geographies|How many regions is Italy subdivided into|twenty|thirty|forty|ten|2
+Geographies|Stockholm is located on which body of water|Baltic Sea|Gulf of Bothnia|North Sea|Gulf of Finland|3
+Geographies|The Drake Passage is located off the southern coast of which continent|South America| Australia|Africa|Asia|2
+Geographies|Which of the following countries is located between Somalia and Eritrea|Djibouti|Sudan| Oman|Yemen|3
+Geographies|Which Central American country is largest in area|Nicaragua|Panama|Honduras|Guatemala|2
+Geographies|Northwest Alabama and northeast Mississippi meet at which state|Tennessee|South Carolina|Arkansas|Kentucky|3
+Geographies|Which country's flag is not blue and white|Ukraine|Greece|Honduras|Israel|2
+Geographies|A meander is a feature of which water body|rive|lake|ocean|gulf|3
+Geographies|Which type of cloud forms at the highest altitudes|Cirrus|Altocumulus|Cumulus|Stratus|2
+Geographies|Which country shares China's nationwide time zone|Mongolia|India|South Korea|Bangladesh|3
+Geographies|Which country leads the world in soy production|United States|Brazil|Argentina|China|2
+Geographies|Which country leads the world in pork production|China|United States|Brazil|Germany|2
+Geographies|Central Baghdad lies on which river|Tigris|Ganges|Euphrates|Indus|2
+Geographies|What is the name of the currency used in North Korea and South Korea|won|som|kroon|yuan|1
+Geographies|The Strait of Otranto lies between Italy and which other country|Albania|Malta |Croatia|Tunisia|3
+Geographies|What is the capital of the U.S. state of Iowa|Des Moines|Iowa City|Omaha|Davenport|3
+Geographies|Which African country is not landlocked|Eritrea|Mali|Niger|Zambia|3
+Geographies|Which country was known as the East Africa Protectorate|Kenya|Somalia|Tanzania|Uganda|3
+Geographies|East Azerbaijan is a province of which country|Iraq|Iran|Georgia|India|2
+Geographies|Where is East Turkestan|China|Kazakhstan|Myanmar|India|1
+Geographies|What is Eastern Samoa|American Samoa|Saipan|Solomon Islands|Kiribati|2
+Geographies|Which country's birthrate is the lowest|Italy|United States|United Kingdom|India|2
+Geographies|Which state does not border Oklahoma|Nebraska|New Mexico|Missouri|Colorado|3
+Geographies|Perth is in which Australian state|Western Australia|Queensland|South Australia|Victoria|1
+Geographies|In which body of water would you find the Emperor Seamount Chain|Pacific Ocean|Atlantic Ocean|Indian Ocean|Southern Ocean|2
+Geographies|Lake Sakakawea is located in which state or province|North Dakota|   Saskatchewan|Montana|Manitoba|3
+Geographies|Lac Leman is better known by what name|Lake Geneva|Lake Ladoga|Lake Rutland|Lake Ladoga|3
+Geographies|What is Germany's most populous state|Nordrhein-Westfalen|Baden-Wuttemberg|Berlin|Brandenburg|2
+Geographies|What is the capital of Brazil|Brasilia|Sao Paulo|Rio de Janeiro|Buenos Aires|1
+Geographies|Which country is a member of the European Union|Cyprus|Norway|Switzerland Icelan|Iceland|3
+Geographies|Which of these Asian countries is most populous|Philippines|North Korea|Vietnam|Thailand|2
+Geographies|The Ryukyu Islands are a southern chain of which country|Japan|South Korea|Indonesia|Myanmar|3
+Geographies|What is the lowest elevation in Nepal|70 meters|1400 meters|700 meters|140 meters|2
+Geographies|The Kirghiz Steppe is found in which country|Kazakhstan|Afghanistan|Uzbekistan|Pakistan|3
+Geographies|What does the word Khrebet mean in Russian|mountain range|inland sea|desert|tundra region|3
+Geographies|Which island is just south of China's Leizhou Peninsula|Hainan|Lantau|Taiwan|Singapore|3
+Geographies|About how many of Indonesia's 14,000 islands are populated|6000|8000|10000|12000|3
+Geographies|Where is Sky Harbor International Airport|Phoenix|Denver|Dallas-Ft. Worth|Seattle|3
+Geographies|Where is Pearson International Airport|Toronto|Montreal|Quebec City|Ottawa|3
+Geographies|Where is Gatwick Airport|London|Dublin|Edinburgh|Manchester|3
+Geographies|Where is Changi Airport|Singapore|Macau|Shanghai|Hong Kong|3
+Geographies|Where is Schiphol Airport|Amsterdam|Stockholm|Oslo|Copenhagen|3
+Geographies|Which line of longitude passes through South Africa|30 degrees east|15 degrees east|0 degrees|45 degrees east|1
+Geographies|Which city is not a national capital of South Africa|Durban|Pretoria|Cape Town |Bloemfontein|2
+Geographies|Which color is not found on the South African flag|Orange|Yellow|Green|Red|2
+Geographies|Which islands are part of South Africa| Prince Edward|Tristan da Cunha|McDonald| Seychelles|3
+Geographies|Which country does not border South Africa|Angola|Swaziland|Mozambique|Zimbabwe|2
+Geographies|Which water body surrounds most of India|Indian Ocean|Pacific Ocean|Red Sea|South China Sea|1
+Geographies|What is the capital of Canada|Ottawa|Quebec|Toronto|Montreal|1
+Geographies|Which Central American country is adjacent to Colombia|Panama|Ecuador|Mexico|Cuba|2
+Geographies|Which countries lies between Finland and Norway|Sweden|Denmark|United Kingdom| Poland|3
+Geographies|Spain and which other country share the Iberian Peninsula|Portugal|Switzerland|Italy|France|3
+Geographies|Which country is largest in area|Liberia|Lithuania|Lesotho|Latvia|3
+Geographies|The Bay of Biscay is near which country|France|Poland|Italy|Turkey|2
+Geographies|In which time zone is Alabama|Central|Eastern|Atlantic|Eastern|2
+Geographies|Which city is not on Honshu island|Sapporo|Kobe|Hiroshima|Kyoto|3
+Geographies|Which Northeastern U.S. city is a major insurance center|Hartford|Burlington|Providence| Omaha|3
+Geographies|Where is Corcovado Gulf|Chile|Argentina|Peru|Brazil|2
+Geographies|What is the capital of Germany|Berlin|Leipzig|Frankfurt|Bonn|2
+Geographies|Duluth, Minnesota is adjacent to which Great Lake|Superior|Erie|Ontario|Michigan|3
+Geographies|Which country leads the world in alcohol consumption|China|Brazil|Germany|Russia|2
+Geographies|Which country lacks direct access to the Black Sea|Moldova|Russia|Ukraine|Bulgaria|3
+Geographies|The Tiber River flows through which city|Rome|Madrid|Baghdad|Algiers|2
+Geographies|Which continent is adjacent to the Benguela Current|Africa South|America|Australia|Asia|3
+Geographies|Which channel lies off the coast of Singapore|Iraq|Iran|Turkey|Saudi Arabia|3
+Geographies|Which channel lies off the coast of Singapore|Phillip Channel|Nicolas Channel|Northwest Providence|Blanche Channel|3
+Geographies|Lake Volta lies within which country|Ghana|Togo|Cote D'Ivoire|Liberia|2
+Geographies|What is the world's busiest cargo airport|Memphis|Hong Kong|Anchorage|Frankfurt|2
+Geographies|The great Victoria Desert is located in|Australia|Canada|West Africa|North America|1
+Geographies|The island state of Australia is|Tasmania|Queensland|New South Wales|VictoriaGeographies|2
+Geographies|The largest gulf in the world is|Gulf of Mexico|Persian Gulf|Gulf of Carpentaria|Gulf of Mannar|2
+Geographies|In which country is the Albert canal|Belgium|Algeria|Andorra|Botswana|3
+Geographies|In which country is the Great Sandy Desert|Australia|Canada|Chile|Ethiopia|3
+Geographies|In which city is the Prado art gallery|Madrid|Ballaarat|Brooketon|Newark|3
+Geographies|The largest gold producing country in the world is|china|Canada|South Africa|US|2
+Geographies|During what century was Marco Polo most active as a traveler|thirteenth|fourteenth|fifteenth|sixteenth|3
+Geographies|What is the border of a map called|neatline|bandline|edge|legend|1
+Geographies|Compasses were most likely invented in which region|china|india|Europe|Middle East|1
+Geographies|Which sea separates Corsica from Italy|Ligurian Sea|Adriatic Sea|Ionian Sea|Black Sea|3
+Geographies|Which islands are east of West Palm Beach, Florida|The Bahamas|Bermuda|Jamaica|Barbados|3
+Geographies|What is the capital of Spain|Madrid|Barcelona|Valencia|Lisbon|2
+Geographies|On which island would you find Iqaluit, the capital of Nunavut|Baffin Island|Southampton Island|Newfoundland|Kalaallit Nunaat|3
+Geographies|What is the capital of American Samoa|Pago Pago|Road Town|Malabo|Agana|2

@@ -1,62 +1,208 @@
-Sports|What team did Steve Nash play for before signing with the Lakers in 2012|Phoenix Suns|Miami Heat|New York Knicks|San Antonio Spurs
-Sports|What legendary actor is often seen wearing sunglasses in his court side seat at Lakers home games|Jack Nicholson|Al Pacino|Anthony Hopkins|Robert De Niro
-Sports|What team did Mike D'Antoni coach before joining the Lakers|New York Knicks|Houston Rockets|Golden State Warriors|Brooklyn Nets
-Sports|What is the name of the arena where the Lakers play|The Staples Center|The Mobil One Center|The Office Max Center|The Times Union Center
-Sports|What one time Lakers has the record for most season leading league in defensive rebounds with six|Dwight Howard|Wilt Chamberlain|Kareem Jabbar|Shaquille O'Neal
-Sports|Who did Chick Hearn call Mr. Basketball|George Mikan|Kareem Jabbar|Jerry West|Magic Johnson
-Sports|Who was the Lakers' starting point guard in the 2004-05 season|Chucky Atkins|Derek Fisher|Smush Parker|Jordan Farmar
-Sports|Which club did Eden Hazard sign for in 2012|West Ham Utd|Manchester City|Chelsea|Newcastle United"),3));
-Sports|As of 2013, which of these is a soccer player in Liverpool FC|Daniel Sturridge|Matt Carpenter|Trevor Rosenthal|Andrei Kirilenko
-Sports|Which country is hosting the 2014 World Cup Finals|Brazil|Italy|Mexico|Argentian
-Sports|As of 2013, which of these is a soccer player in Liverpool FC|Raheem Sterling|Lance Lynn|Peter Kozma|Jason Terry
-Sports|The Estadio Santiago Bernabau is a soccer stadium in which city|Madrid|Rome|Seville|Milan
-Sports|Which 35 year old footballer won the PFA Player of the Year Award in 2009|Ryan Giggs|Alan Shearer|Gary Neville|Alan Hansen
-Sports|What was David Beckham's squad number in his first World Cup|7|11|10|23
-Sports|The Miami Dolphins compete in which sports|American Football|Basketball|Baseball|Ice Hockey
-Sports|Detroit Red Wings compete in which sport|Ice Hockey|American Football|Basketball|Baseball
-Sports|What colour is the 8-ball in a game of pool|Black|Orange|Yellow|Purple
-Sports|In american football, how many points are scored for a touchdown|6|5|4|3
-Sports|Which of these teams' coaches would wear the same uniform as the players|New York Yankees|New York Giants|New York Knicks|New York Rangers
-Sports|What trophy was found at the bottom of Mario Lemieux's swimming pool in 1991|Stanley Cup|Jules Rimet Trophy|Borg Warner|Heisman Trophy
-Sports|Goal Shooter and Goal Attack are the only players that can score in which sport|Netball|Lacrosse|Ice Hockey|Aussie Rules Football
-Sports|How many players are in a netball team|7|5|9|6
-Sports|Larry Bird was a champion in which sport|Basketball|Volleyball|Baseball|Tennis
-Sports|How many baseball gloves can be made with the leather from one cow|5|25|55|1
-Sports|A team in which of these sports would have the most positions for people to play|Soccer|Baseball|Water polo|Volleyball
-Sports|Still popular in Australia and New Zealand, netball used to be known as the "women's version of what sports|Basketball|Ice Hockey|Tennis|Soccer
-Sports|On ABC's Wide World of Sports, who promised us 'the thrill of victory, the agony of defeat'|Jim McKay|Don Meredith|Howard Cosell|Keith Jackson|Keith Jackson
-Sports|Which structure was also known as 'The House that Ruth Built'|Yankee Stadium|The Chrysler Building|Madison Square Garden|Fenway park
-Sports|How many times did cylist Miguel Indurain win the Tour de France in the 1990s|5|0|2|8
-Sports|Like handball and water polo, Harry Potter's quidditch requires how many players on a team|7|5|8|3
-Sports|Vinko Bogataj, a ski jumper, illustrated 'the agony of defeat' on what ABC series|Wide World of Sports|That's Incredible|Nightline|Bugs Bunny
-Sports|What event, first held in Bangkok in 2005, has included billards and snooker, bodybuilding, chess and table tennis|Asian Indoor Games|Commonwealth Indoor Games|All-Africa Indoor Games|Pan American Indoor Games
-Sports|Only three sports are won by moving backward. Which of these is NOT one of them|High jump|Backstroke swimming|Rowing|Tug of war
-Sports|What brand of tennis balls are used at Wimbledon|Slazenger|Penn|Dunlop|Spalding
-Sports|What was the first live sporting event on TV|Boxing match|Football game|Golf round|Baseball game
-Sports|Who won the 2000 NBA Title|LA Lakers|New Jersey Nets|New York Knicks|Chicago Bull
-Sports|What future track star also helped the University of North Carolina win the NCAA title while on a basketball scholarship|Marion Jones|Florence Griffith-Joyner|Jackie Joyner|Whilma Rudolph
-Sports|As at 2013, how many Summer Olympics have been in the southern hemisphere|2|4|3|1
-Sports|For which English soccer club did George Best mostly play|Manchester United|Liverpool|Sunderland|West ham United
-Sports|'El Tri' is the nickname for which national footbal team|Mexico|Switzerland|Germany|Greece
-Sports|Whose teammates have included Michael Jordan and Hulk Hogan|Dennis Rodman|Ron Artest|Charles Barkley|John Stockton
-Sports|A 'Miller' is a move in which sport|Ice Hockey|Diving|Chess|Trampolining
-Sports|Diego Maradona played soccer for which country|Argentina|Mexico|Brazil|Spain
-Sports|Figure skater Kwan Ying Shan was named by her Chinese immigrant parents for a Beatles' song. What name did they pick|Michelle|Madonna|Eyna|Whitney
-Sports|Which city hosted the 1992 summer Olympic games|Barcelona|Moscow|Atlanta|Seoul
-Sports|What sport is governed by the Federation Internationale des Quilleurs, which lists more than 110 countries as members|Bowling|Archery|Soccer|Fencing
-Sports|Oddly enough, Denmark is the strongest non-Asian country in what Olympic sport with Anglo-Indian origins|Badminton|Taekwondo|Table Tennis|Judo
-Sports|How many players per side are on a basketball court at any given moment|5|6|7|4
-Sports|What triathlon originally finished at Aloha Tower|Iron Man|Shazam|Flash|Superman
-Sports|Claiming to have been inspired by Greek ball games, what sports did Major Walter Wingfield introduce in 1873 as Sphairistlike|Lawn tennis|Badminton|Rugby|Cricket
-Sports|Lew Hoad was a superstar in which sport in the 1950s|Tennis|Baseball|Soccer|Football
-Sports|In 1960, where were the first official Paralympic Games held|Rome|Munich|New York City|Melbourne
-Sports|'Skijoring' is like skiing, combined with something else. What| Dog mushing|Motorcycling|Ping pong|Skeet shooting
-Sports|The Harlem Globetrotters play which sport|Basketball|Ice Hockey|Baseball|Soccer
-Sports|While studying anthropometry at Harvard in 1901, Constance 'Apple' Applebee introduced American women to what sport|Field hockey|Tennis|Boating|Golf
-Sports|How many players are there in bandy team|11|13|15|20
-Sports|If you're watching dog racing down at the track, then which of these animals is most likely to be running|Greyhounds|Whippets|Salukis|St. Bernards
-Sports|The first X Games were held in Rhode Island. When|1995|1985|1970|1990
-Sports|In what month is the Super bowl played|February|December|January|May
-Sports|What number was worn by baseball's Mickey Mantle, hockey's Phil Esposito, football's John Elway and soccer's David Beckham|7|10|9|11
-Sports|What sport is like water skiing on a surfboard|Wakeboarding|Showboating|Powerboating|Waterboarding
-
+Sports|What team did Steve Nash play for before signing with the Lakers in 2012|Phoenix Suns|Miami Heat|New York Knicks|San Antonio Spurs|1
+Sports|What legendary actor is often seen wearing sunglasses in his court side seat at Lakers home games|Jack Nicholson|Al Pacino|Anthony Hopkins|Robert De Niro|1
+Sports|What team did Mike D'Antoni coach before joining the Lakers|New York Knicks|Houston Rockets|Golden State Warriors|Brooklyn Nets|1
+Sports|What is the name of the arena where the Lakers play|The Staples Center|The Mobil One Center|The Office Max Center|The Times Union Center|1
+Sports|What one time Lakers has the record for most season leading league in defensive rebounds with six|Dwight Howard|Wilt Chamberlain|Kareem Jabbar|Shaquille O'Neal|2
+Sports|Who did Chick Hearn call Mr. Basketball|George Mikan|Kareem Jabbar|Jerry West|Magic Johnson|2
+Sports|Who was the Lakers' starting point guard in the 2004-05 season|Chucky Atkins|Derek Fisher|Smush Parker|Jordan Farmar|2
+Sports|Which club did Eden Hazard sign for in 2012|West Ham Utd|Manchester City|Chelsea|Newcastle United|1
+Sports|As of 2013, which of these is a soccer player in Liverpool FC|Daniel Sturridge|Matt Carpenter|Trevor Rosenthal|Andrei Kirilenko|1
+Sports|Which country is hosting the 2014 World Cup Finals|Brazil|Italy|Mexico|Argentian|1
+Sports|As of 2013, which of these is a soccer player in Liverpool FC|Raheem Sterling|Lance Lynn|Peter Kozma|Jason Terry|1
+Sports|The Estadio Santiago Bernabau is a soccer stadium in which city|Madrid|Rome|Seville|Milan|1
+Sports|Which 35 year old footballer won the PFA Player of the Year Award in 2009|Ryan Giggs|Alan Shearer|Gary Neville|Alan Hansen|1
+Sports|What was David Beckham's squad number in his first World Cup|7|11|10|23|1
+Sports|The Miami Dolphins compete in which sports|American Football|Basketball|Baseball|Ice Hockey|1
+Sports|Detroit Red Wings compete in which sport|Ice Hockey|American Football|Basketball|Baseball|1
+Sports|What colour is the 8-ball in a game of pool|Black|Orange|Yellow|Purple|1
+Sports|In american football, how many points are scored for a touchdown|6|5|4|3|1
+Sports|Which of these teams' coaches would wear the same uniform as the players|New York Yankees|New York Giants|New York Knicks|New York Rangers|2
+Sports|What trophy was found at the bottom of Mario Lemieux's swimming pool in 1991|Stanley Cup|Jules Rimet Trophy|Borg Warner|Heisman Trophy|2
+Sports|Goal Shooter and Goal Attack are the only players that can score in which sport|Netball|Lacrosse|Ice Hockey|Aussie Rules Football|1
+Sports|How many players are in a netball team|7|5|9|6|1
+Sports|Larry Bird was a champion in which sport|Basketball|Volleyball|Baseball|Tennis|1
+Sports|How many baseball gloves can be made with the leather from one cow|5|25|55|1|1
+Sports|A team in which of these sports would have the most positions for people to play|Soccer|Baseball|Water polo|Volleyball|1
+Sports|Still popular in Australia and New Zealand, netball used to be known as the "women's version of what sports|Basketball|Ice Hockey|Tennis|Soccer|1
+Sports|On ABC's Wide World of Sports, who promised us 'the thrill of victory, the agony of defeat'|Jim McKay|Don Meredith|Howard Cosell|Keith Jackson|1
+Sports|Which structure was also known as 'The House that Ruth Built'|Yankee Stadium|The Chrysler Building|Madison Square Garden|Fenway park|1
+Sports|How many times did cylist Miguel Indurain win the Tour de France in the 1990s|5|0|2|8|1
+Sports|Like handball and water polo, Harry Potter's quidditch requires how many players on a team|7|5|8|3|1
+Sports|Vinko Bogataj, a ski jumper, illustrated 'the agony of defeat' on what ABC series|Wide World of Sports|That's Incredible|Nightline|Bugs Bunny|1
+Sports|What event, first held in Bangkok in 2005, has included billards and snooker, bodybuilding, chess and table tennis|Asian Indoor Games|Commonwealth Indoor Games|All-Africa Indoor Games|Pan American Indoor Games|1
+Sports|Only three sports are won by moving backward. Which of these is NOT one of them|High jump|Backstroke swimming|Rowing|Tug of war|1
+Sports|What brand of tennis balls are used at Wimbledon|Slazenger|Penn|Dunlop|Spalding|1
+Sports|What was the first live sporting event on TV|Boxing match|Football game|Golf round|Baseball game|2
+Sports|Who won the 2000 NBA Title|LA Lakers|New Jersey Nets|New York Knicks|Chicago Bull|1
+Sports|What future track star also helped the University of North Carolina win the NCAA title while on a basketball scholarship|Marion Jones|Florence Griffith-Joyner|Jackie Joyner|Whilma Rudolph|1
+Sports|As at 2013, how many Summer Olympics have been in the southern hemisphere|2|4|3|1|2
+Sports|For which English soccer club did George Best mostly play|Manchester United|Liverpool|Sunderland|West ham United|1
+Sports|'El Tri' is the nickname for which national footbal team|Mexico|Switzerland|Germany|Greece|1
+Sports|Whose teammates have included Michael Jordan and Hulk Hogan|Dennis Rodman|Ron Artest|Charles Barkley|John Stockton|1
+Sports|A 'Miller' is a move in which sport|Ice Hockey|Diving|Chess|Trampolining|1
+Sports|Diego Maradona played soccer for which country|Argentina|Mexico|Brazil|Spain|1
+Sports|Figure skater Kwan Ying Shan was named by her Chinese immigrant parents for a Beatles' song. What name did they pick|Michelle|Madonna|Eyna|Whitney|1
+Sports|Which city hosted the 1992 summer Olympic games|Barcelona|Moscow|Atlanta|Seoul|1
+Sports|What sport is governed by the Federation Internationale des Quilleurs, which lists more than 110 countries as members|Bowling|Archery|Soccer|Fencing|2
+Sports|Oddly enough, Denmark is the strongest non-Asian country in what Olympic sport with Anglo-Indian origins|Badminton|Taekwondo|Table Tennis|Judo|2
+Sports|How many players per side are on a basketball court at any given moment|5|6|7|4|1
+Sports|What triathlon originally finished at Aloha Tower|Iron Man|Shazam|Flash|Superman|2
+Sports|Claiming to have been inspired by Greek ball games, what sports did Major Walter Wingfield introduce in 1873 as Sphairistlike|Lawn tennis|Badminton|Rugby|Cricket|2
+Sports|Lew Hoad was a superstar in which sport in the 1950s|Tennis|Baseball|Soccer|Football|2
+Sports|In 1960, where were the first official Paralympic Games held|Rome|Munich|New York City|Melbourne|2
+Sports|'Skijoring' is like skiing, combined with something else. What| Dog mushing|Motorcycling|Ping pong|Skeet shooting|1
+Sports|The Harlem Globetrotters play which sport|Basketball|Ice Hockey|Baseball|Soccer|1
+Sports|While studying anthropometry at Harvard in 1901, Constance 'Apple' Applebee introduced American women to what sport|Field hockey|Tennis|Boating|Golf|2
+Sports|How many players are there in bandy team|11|13|15|20|1
+Sports|If you're watching dog racing down at the track, then which of these animals is most likely to be running|Greyhounds|Whippets|Salukis|St. Bernards|1
+Sports|The first X Games were held in Rhode Island. When|1995|1985|1970|1990|2
+Sports|In what month is the Super bowl played|February|December|January|May|1
+Sports|What number was worn by baseball's Mickey Mantle, hockey's Phil Esposito, football's John Elway and soccer's David Beckham|7|10|9|11|1
+Sports|What sport is like water skiing on a surfboard|Wakeboarding|Showboating|Powerboating|Waterboarding|1
+Sports|In which year FIFA was founded|1904|1886|1956|1705|3|2
+Sports|How many sports were there in the first Asian Games|6|3|4|5|3|2
+Sports|The Wimbledon Championship is played on|Grass Surface|Yellow Clay|Clay Surface|Hard Courts|2
+Sports|FIFA is related to which sport|Football|Hockey|Tennis|Cricket|1
+Sports|What is the maximum field length of Rugby|100 metres|80 metres|90 metres|110 metres|2
+Sports|The Rugby Championship previously known as|The Tri Nations|Euro Nations|Double Nations|The Quarter Nations|2
+Sports|Table Tennis is also known as|Ping-Pong|Ring-Rong|Sing-Song|Bing-Bong|1
+Sports|In which year, Table Tennis has been included in Olympics|1988|1967|1972|1983|3
+Sports|The Table Tennis Ball size is |40 mm|36mm|38 mm|42 mm|3
+Sports|Which of the given word is related to Table Tennis|Let|Bodge|Give|Jest|2
+Sports|In a hockey match, a green card is|Triangular|Rectangular|Circular|Pentagonal|1
+Sports|US Open is played in the month of|August-September|January|May-June|June-July|1
+Sports|The modern game of tennis originated in|England|France|USA|Australia|3
+Sports|Which is not a Grand Slam tournament |English Open|Australian Open|French Open|US Open|2
+Sports|How many teams participated in the football world cup 2010|32|38|40|42|1
+Sports|The FIFA Fair Play Trophy of football world cup 2010 was given to|Spain|Brazil|Germany|Netherlands|1
+Sports|The official song of the 2010 Football World Cup was|Waka Waka|Daka Daka|Thaka Thaka|Hala Hala|1
+Sports|How many players do play in a baseball team|9|11|6|8|1
+Sports|The "Uber Cup" is related to which sports |Badminton|Tennis|Chess|Cricket|3
+Sports|The Championship "BWF Super Series" is related to which sport|Badminton|Tennis|Field Hockey|Chess|3
+Sports|Where is the Headquarters of Commonwealth Games|London|New York|Paris|Canberra|1
+Sports|Which team has won the most number of Hockey World Cup titles|Pakistan|India|Netherlands|Australia|1
+Sports|Which country will host the 2015 Rugby World Cup|England|New Zealand|South Africa|India|2
+Sports|In 1900 Olympics which country won the first gold medal|USA|St. Louis|Scotland|London|2
+Sports|With which sport is the Sultan azlan shah cup associated|Hockey|Volleyball|Bowling|Lawn tennis|2
+Sports|With which sport is the Bledisloe Cup associated |Rugby|Baseball|bridge|Golf|3
+Sports|Who won Men's Singles Title in the 2013 Australian Open|Novak Djokovic|Andy Murray|Robin Haase|Paul-Henri Mathieu|2
+Sports|What type of Courts were used in the 2013 Australian Open|Hard courts|Carpet courts|Grass courts|Clay courts|1
+Sports|Bully term is used in which sport |Hockey|Football|Cricket|Basketball|1
+Sports|Which of the following term is used in Golf|Stymie|Pot|Half|Chuker|2
+Sports|Butterfly term is used in which sport|Swimming|Volley Ball|Golf|Baseball|1
+Sports|Which of the following term is not used in Hockey|Slice|Circle|Striking|Bully|1
+Sports|How many balls are on a snooker table at the start of play|22|21|23|24|1
+Sports|The word 'Jockey' is related to which sports|Horse racing|Chess|Polo|Cricket|2
+Sports|What is NBA in sports|Basketball league|Cricket league|Football league|Tennis league|1
+Sports|Which country won the FIFA World Cup most number of times|Brazil|Uruguay|Germany|Italy|1
+Sports|The National Game of Japan is|Jujutsu|Base ball|Tennis|Ice Hockey|2
+Sports|Famous Tennis player Stefan Edberg belongs to|Sweden|Italy|U.K|Norway|2
+Sports|In the game of Volley ball, the number of players on each side is|6|7|11|8|1
+Sports|2010 World Cup football tournament was held in|South Africa|Turin|Germany|Austria|1
+Sports|Mithir Sen is associated with|Swimming|Weighlifting|Volley ball|Hockey|3
+Sports|WorldÕs most ancient game is|Wrestling|Swimming|Running|Boxing|1
+Sports|Beighton cup is associated with|Hockey|Football|Volley ball|Basket ball|3
+Sports|2010 Commonwealth Games held in|India|Canada|Britian|Malaysia|1
+Sports|Subroto cup is associated with|Football|Cricket|Chess|Golf|2
+Sports|Wilson Jones is associated with|Billiards|Horce Racing|Hockey|Golf|3
+Sports|Yankee Stadium in New York is associated with|Baseball|Hockey|Tennis|Cricket|2
+Sports|The maximum number of Gold medals in Olympics 2008 was won by|U.S.A.|S.Korea|France|China|1
+Sports|Viswanath Anand is associated with|Chess|Hockey|Volley ball|Carrom|1
+Sports|The head quarters of International Olympic Committee is at|Lausanne|Moscow|New York|Los Angles|2
+Sports|The term Smasher is associated with|Volley ball|Hockey|Foot ball|Boxing|2
+Sports|Santhosh Trophy is associated with|Football|Cricket|Hockey|WeightÐlifting|2
+Sports|Mahesh Bhupathi is associated with|Lawn Tennis|Table Tennis|Cricket|Chess|1
+Sports|Ronaldo is associated with|Football|Hockey|Cricket|Tennis|1
+Sports|2009 Davis cup was won by|Spain|France|US|Czech Republic|1
+Sports|In Karate, the highest degree is Black Belt. What is the beginning level|White Belt|Green Belt|Blue Belt|Yellow Belt|1
+Sports|What is the national game of China|Table Tennis|Hockey|Tennis|Judo|1
+Sports|The term Googly is associated with|Cricket|Football|Badminton|Hockey|1
+Sports|The first man to swim across the Palk straits is|Mihir Sen|Milkha Singh|Arthur Ashe|Roger Benister|2
+Sports|The National Game of India is|Hockey|Cricket|Football|Tennis|1
+Sports|What is the another name of ATHLETICS|Track &Field|Sports|Gymnastics|Decathlon|3
+Sports|How many types of tracks are there in Athletics|2|3|4|5|2
+Sports|The Standard distance of Marathon Race|42.195 kms|26 kms|42 kms|42.123 kms|3
+Sports|In what year did Tiger Woods begin his professional golf career|1996|1995|1997|1998|3
+Sports|Which was the first country to host the World Cup twice|Mexico|China|Australia|India|1
+Sports|BCCI was formed in which year|1928|1920|1939|1946|2
+Sports|What sport is played at Wimbledon|Tennis|Football|Hockey|Cricket|1
+Sports|In which country was the 2003 Rugby World Cup held|Australia|England|New Zealand|France|2
+Sports|How many players in total get down in a normal rugby union scrum|8|12|11|13|1
+Sports|name of the trophy awarded to the winners of the Rugby World Cup|The Golden Boot|The Ashes|Oval Jug|William Webb Ellis|2
+Sports|How many tennis players are needed for a game of Canadian doubles|Three|Four|Five|Six|1
+Sports|In what year did the Rugby World Cup first take place|1977|1987|1997|2007|3
+Sports|How many rounds are there in a Olympic-boxing match|3|4|6|8|1
+Sports|Who was the youngest heavyweight boxing champion|Lennox Lewis|Joe Bugner|Mike Tyson|Frank Bruno|2
+Sports|Which one of these is not a boxing federation|WBC|WBB|WBA|WBO|1
+Sports|How high is the net in tennis|3 foot|3 foot 3 inches|3 foot 6 inches|3 foot 8 inches|1
+Sports|What year in the 1970s was Muhammad Ali's last as heavyweight champ|1976|1977|1978|1979|3
+Sports|The French Open tennis tournament is played on what type of surface|Clay|Grass|Concrete|Rubber|2
+Sports|From what wood is a cricket bat traditionally made|Willow|Oak|Pine|Teak|1
+Sports|How many penalty strokes are added for a lost ball in golf|0|1|2|3|1
+Sports|W.G.Grace captained England at what two sports|Cricket and Tennis|Cricket and Bowels|Cricket and Archery|Cricket and Football|1
+Sports|Which golfer is nicknamed the `Great White Shark`|Greg Norman|Arnold Palmer|Nick Faldo|Seve Ballesteros|2
+Sports|The first cricket player to hit a quadruple century in Test cricket|Sir Viv Richards|Sir Ian Botham|Brian Lara|W G Grace|1
+Sports|What is an indoor cycling track called|Pine Track|Velodrome|Banked Track|Wind Tunnel|3
+Sports|What is the green jersey awarded for in the Tour de France|Overall Winner|Young Rider|Sprint Winner|Mountain Stage|2
+Sports|What is the most accurate measure of power output when riding|Heart Rate|Sweat|Watts|Cycling Speed|1
+Sports|What country does the soccer player Wayne Rooney come from|England|Australia|USA|New Zealand|2
+Sports|In which sport was Muhammad Ali the world champion|Boxing|Cricket|Wrestling|Hockey|1
+Sports|How many bases are there on a baseball field|4|3|5|6|1
+Sports|A typical golf course features how many holes|18|16|17|19|3
+Sports|Country who have played in every World Cup Football tournament|Brazil|China|Germany|New Zealand|1
+Sports|Speed skating originated in which country|Netherlands|Russia|Canada|Norway|2
+Sports|What English football club was originally known as Newton Heath|Manchester United|Arsenal|Liverpool FC|Barcelona|3
+Sports|Who was the first footballer to score 100 goals in the English Premiership|Alan Shearer|Messi|David Beckham|Cristiano Ronaldo|1
+Sports|Olympic games are organizes after a gap of every|4 years|3years|2years|5years|1
+Sports|The term 16 yards hit is associated with|Hockey|Baseball|Polo|Badminton|1
+Sports|With which game Double Fault associated|Football|Lawn Tennis|Cricket|Hockey|1
+Sports|Merdeka cup is associated with|Football|Rugby|Cricket|Hockey|2
+Sports|Which game is Ian Trophy associated with|Swimming|Chess|Badminton|Squash|1
+Sports|The first one-day cricket world cup tournament was held in|England|Australia|New Zealand|West Indies|1
+Sports|Which of the following trophies/cups is associated with the game of golf|Topolino trophy|Panmavati trophy|Iran cup|None|2
+Sports|What color of ball is worth the most points in a game of snooker|Black|Pink|Green|Brown|1
+Sports|In ice hockey, the term "Biscuit" refers to which of the following items|Puck|Helmet|Net|Goalie's Catching Glove|1
+Sports|The terms "drivers" and "irons" are used in which sport|Horse Racing|Hockey |Bowling|Basketball|3
+Sports|Which world heavyweight boxing champion was jailed in the 90s|Mike Tyson|Primo Carnera|John L. Sullivan|Gene Tunney|1
+Sports|Ricky Ponting is also known as what|Punter|The Rickster|Ponts|Ponters|1
+Sports|Who won the 1993 "King of the Ring"|Bret Hart|Owen Hart|Edge|Mabel|3
+Sports|Which player has scored the most runs in a single Test innings|Brian Lara|Graham Gooch|Matthew Hayden|Agarkar|1
+Sports|Who did Shawn Michaels beat to win his first Intercontinental Title|British Bulldog|Marty Jannetty|Bret Hart|Tito Santana|2
+Sports|Fenway Park is the home field of what Major League Baseball team|Boston Red Sox|Montreal Expos|New York Yankees|Chicago White|3
+Sports|Which football hero was nicknamed "The Sundance Kid"|Jim Kiick|Joe Montana|Troy Aikman|Brett Favre|2
+Sports|Who did The Rock beat to win his first WWE Title|Mankind|Triple H|Stone Cold Steve Austin|Bret Hart|1
+sports|Which country won the Cricket World Cup in 1999|Australia|South Africa|Pakistan|England|1
+sports|How long are professional Golf Tour players allotted per shot|45 seconds|1 minute|2 minutes|2seconds|1
+sports|Who has scored the most Test hundreds ever|sachin tendulkar|Steve Waugh|Shane Warne|Sunil Gavaskar|1
+sports|Who is the highest wicket taker in Test cricket|Muttiah Muralitharan|Courtney Walsh|Brian Lara|Shane Warne|1
+sports|In an NFL football game, how many players are on the field per team|11|14|16|12|1
+sports|In what year was the Stanley Cup first awarded|1893|1915|1884|1904|3
+Sports|How many times have the Montreal Canadians won the Stanley Cup|24|14|8|36|1
+Sports|Who is the current Stanley cup trustee|Ian Morrison|P.D. Ross|Clarence Campbell|Cooper Smeaton|2
+Sports|Who was the first African-American manager in WWE history|Slick|Bobby Heenan|Teddy Long|Sharmell|1
+Sports|Who became the first person to defeat The Undertaker at Wrestlemania|Brock Lesnar|John Cena|Hulk Hogan|Ryback|1
+Sports|As of 2013, who holds the record for most points during a NBA game|Wilt Chamberlain|Kobe Bryant|Michael Jordan|Tim Hardaway|1
+Sports|What country won the most gold medals at the 2014 Olympic Winter Games|Russia|Canada|United States|Norway|1 
+Sports|Who holds the record for the longest WWE Championship reign|Bruno Sammartino|Hulk Hogan|Bob Backlund|The Ultimate Warrior|1
+Sports|Who did Hulk Hogan win his only WWE Tag Team Championship with|Edge|The Ultimate Warrior|Macho Man|Brutus Beefcake|1
+Sports|Who was the first woman to compete in the Indianapolis 500 |Janet Guthrie|Lella Lombardi|Louise Smith|Sara Christian|3
+Sports|How high is a basketball hoop rim above the playing floor|10 Feet|11 Feet|12 Feet|8 Feet|1
+Sports|Who was the first defenseman to lead the NHL in scoring|Bobby Orr|Denis Potvin|Ray Bourque|Paul Coffey|2
+Sports|Which NFL team won the very first Superbowl|Greenbay Packers|Pittsburgh Steelers|New York Giants|Dallas Cowboys|1
+Sports|In which sport would you hear the terms "Tracking" and "Camber"|Ski jumping|Biathlon|Figure skating|Bob sledding|1
+Sports|Which country will host the 2014 winter games|Russia|France|Switzerland|United States|1
+Sports|How many gold medals will be handed out at the 2014 Olympics|98|83|76|124|1
+Sports|How many sports will be featured at the 2014 Winter Olympics|15|21|32|12|1
+Sports|Nilton Santos played for which country|Brazi|Spain|Germany|Peru|1
+Sports|What position did the great David Beckham play|Midfielder|Goalie|Defender|Forward|1
+Sports|How many refs are there in an official soccer match|3|7|9|4|1
+Sports|Where is FIFA headquarters|Zurich|Amsterdam|Paris|Berlin|1
+Sports|Which famous boxer was nicknamed "Thunder"|Arturo Gatti|Bobby Chacon|Henry Armstrong|Donovan Ruddock|1
+Sports|Which sport uses the terms point guard and shooting guard|Basketball|Rugby|Football|Curling|1
+Sports|Which sport awards the Davis Cup|Tennis|Soccer|Bowling|Baseball|1
+Sports|In which city was the NHL started|Montreal|Toronto|Detroit|Vancouver|2
+Sports|David Jones plays for which NHL team (2013)|Colorado Avalanche|Anaheim Ducks|Pittsburgh Penguins|New York Rangers|1
+Sports|As of 2013, how many teams are there in the NHL|30|28|24|32|1
+Sports|What sport has an infield playing surface that is called a diamond|Baseball|Soccer|Football|Rugby|1
+Sports|What Native American was the NFL's first president|Jim Thorpe|Steve Young|Gale Sayers|Jerry Rice|2
+Sports|What football defensive position is dubbed a "rover" or "monster"|Safety|Hold|Attack|Pass|1

@@ -1,32 +1,182 @@
-Musics|Who was nominated as one of the three 'men of the decade' on a special UK television production in 1069|John|George|Paul|Ringo
-Musics|Who was the final Beatle to be married|Paul|John|Ringo|George
-Musics|Who did Dana Carvey regularly impersonate on Saturday Night Live|Paul|John|Ringo|George
-Musics|John Lennon said The Beatles were 'more popular than Jesus' in which newspaper|London Evening Standard|London Chronical|Daily Mail|Liverpool Daily Post And Echo
-Musics|Which band had a 2004 hit with 'She will be loved'|Maroon 5|Creed|Los Lonely Boys|The Killers
-Musics|Black Eyed Peas retooled their song 'let's Get Retarded' for commercials. What did they rename it|Let's Get It Started|Let's Get Rebounded|Let's Go Rebound It|Let's Get Rewarded
-Musics|Who released the 2008 album 'I Am Sasha Fierce'|Beyonce|Lady Gaga|Madonna|Gwen Stefani
-Musics|'Disturbia' was a 2008 No.1 hit for which female popstar|Rihanna|Lady Gaga|Leona Lewis|Kelly Clarkson
-Musics|Which 2002 film starred Eminem|8 Mile|Meet The Fockers|Signs|The Footbal Factory
-Musics|With which band is Adam Levine the lead singer|Maroon 5|Los Lonely Boys|The Killers|Creed
-Musics|Good Riddance (Time of Your Life) was a 90s release by which band|Green Day|The Offspring|Blink 182|Bloodhound Gang
-Musics|Which kind of love did Tupac Shakur have a hit with 1996|California|Florida|New York|Vegas
-Musics|Complete the title of the Grammy wining Seal song 'Kiss From A ....|Rose|Sun|Love|God
-Musics|Who had a 1999 hit with 'Man! I Feel Like a Woman'|Jennifer Rush|Madonna|Shania Twain|Sheryl Crow
-Musics|'Unbreak My Heart' was a No.1 hit for which star in 1997|Toni Braxton|Brandy|Beyonce|Mariah Carey
-Musics|Which band sang the theme tune to the TV Sitcom Friends|The Rembrants|The Remembrance|The Remembers|The Remingtons
-Musics|In 2012, Feist won Artist of the Year at what country's Juno Awards|Canada|Ireland|Great Britain|Australia
-Musics|How many revolutions per minute do vinyl LPs require|33.3|30|99|66.6
-Musics|What rocker 'mooned' the crowd at a ceremony to induct rock bands into the U.K. Music Hall of Fame|Ozzy Osbourne|Bono|Elton John|David Bowie
-Musics|In what German city did The Beatles play most of their early shows|Hamburg|Munich|Berlin|London
-Musics|In what country were people first able to buy the CD|Japan|USA|United Kingdom|Netherlands
-Musics|According to Kelis, which of her drinks 'brings all the boys to the yard'|Milkshake|Martini|Champagne|Lemonade
-Musics|Coincidentally, whose album 21 become the 21st album to sell more than 10 million copies|Adele|Michael Jackson|Whitney Houston|Alica Keyes
-Musics|Which Beatles' song was chosen as the opening theme to the television series 'Providence'|In My Life|Yesterday|When I'm Sixty Four|All You Need Is Love
-Musics|What odd names did Celine Dion give her twins, probably in honor of somebody known as a singer and actor|Nelson and Eddy|Ron and Paul|Patrick and Henry|Ozzie and Harriet
-Musics|What Irish artist's only number one hit was titled 'Nothing Compares 2 U'|Sinead O'Connor|Corrs|Enya|U2
-Musics|What band takes its name from a slang expression for the red noses of drunks|Gin Blossoms|My Bloody Valentine|Arcade Fire|Arctic Monkeys
-Musics|How old was John Lennon at the time of his death|40|39|25|42
-Musics|What band cancelled a 2010 show in St Louis, after a pigeon kept pooping on Jared Followhill|Kings of Leon|Arcade Fire|Vampire Weekend|Strokes
-Musics|What year did the CD become available in the United States|1983|1980|1985|1979
-Musics|What electro house music outfit from France did the score for 'Tron: Legacy'|Daft Punk|Skrillex|DJ Tiesto|Deadmau5
-Musics|Lars Ulrich is the drummer for which legendary heavy metal band|Metallica|Alice In Chains|MegaDeth|Slaver
+Musics|Who was nominated as one of the three 'men of the decade' on a special UK television production in 1069|John|George|Paul|Ringo|1
+Musics|Who was the final Beatle to be married|Paul|John|Ringo|George|2
+Musics|Who did Dana Carvey regularly impersonate on Saturday Night Live|Paul|John|Ringo|George|2
+Musics|John Lennon said The Beatles were 'more popular than Jesus' in which newspaper|London Evening Standard|London Chronical|Daily Mail|Liverpool Daily Post And Echo|1
+Musics|Which band had a 2004 hit with 'She will be loved'|Maroon 5|Creed|Los Lonely Boys|The Killers|1
+Musics|Black Eyed Peas retooled their song 'let's Get Retarded' for commercials. What did they rename it|Let's Get It Started|Let's Get Rebounded|Let's Go Rebound It|Let's Get Rewarded|1
+Musics|Who released the 2008 album 'I Am Sasha Fierce'|Beyonce|Lady Gaga|Madonna|Gwen Stefani|1
+Musics|'Disturbia' was a 2008 No.1 hit for which female popstar|Rihanna|Lady Gaga|Leona Lewis|Kelly Clarkson|1
+Musics|Which 2002 film starred Eminem|8 Mile|Meet The Fockers|Signs|The Footbal Factory|1
+Musics|With which band is Adam Levine the lead singer|Maroon 5|Los Lonely Boys|The Killers|Creed|1
+Musics|Good Riddance (Time of Your Life) was a 90s release by which band|Green Day|The Offspring|Blink 182|Bloodhound Gang|1
+Musics|Which kind of love did Tupac Shakur have a hit with 1996|California|Florida|New York|Vegas|1
+Musics|Complete the title of the Grammy wining Seal song 'Kiss From A ....|Rose|Sun|Love|God|1
+Musics|Who had a 1999 hit with 'Man! I Feel Like a Woman'|Jennifer Rush|Madonna|Shania Twain|Sheryl Crow|1
+Musics|'Unbreak My Heart' was a No.1 hit for which star in 1997|Toni Braxton|Brandy|Beyonce|Mariah Carey|1
+Musics|Which band sang the theme tune to the TV Sitcom Friends|The Rembrants|The Remembrance|The Remembers|The Remingtons|1
+Musics|In 2012, Feist won Artist of the Year at what country's Juno Awards|Canada|Ireland|Great Britain|Australia|1
+Musics|How many revolutions per minute do vinyl LPs require|33.3|30|99|66.6|2
+Musics|What rocker 'mooned' the crowd at a ceremony to induct rock bands into the U.K. Music Hall of Fame|Ozzy Osbourne|Bono|Elton John|David Bowie|2
+Musics|In what German city did The Beatles play most of their early shows|Hamburg|Munich|Berlin|London|2
+Musics|In what country were people first able to buy the CD|Japan|USA|United Kingdom|Netherlands|1
+Musics|According to Kelis, which of her drinks 'brings all the boys to the yard'|Milkshake|Martini|Champagne|Lemonade|2
+Musics|Coincidentally, whose album 21 become the 21st album to sell more than 10 million copies|Adele|Michael Jackson|Whitney Houston|Alica Keyes|2
+Musics|Which Beatles' song was chosen as the opening theme to the television series 'Providence'|In My Life|Yesterday|When I'm Sixty Four|All You Need Is Love|1
+Musics|What odd names did Celine Dion give her twins, probably in honor of somebody known as a singer and actor|Nelson and Eddy|Ron and Paul|Patrick and Henry|Ozzie and Harriet|2
+Musics|What Irish artist's only number one hit was titled 'Nothing Compares 2 U'|Sinead O'Connor|Corrs|Enya|U2|1
+Musics|What band takes its name from a slang expression for the red noses of drunks|Gin Blossoms|My Bloody Valentine|Arcade Fire|Arctic Monkeys|2
+Musics|How old was John Lennon at the time of his death|40|39|25|42|2
+Musics|What band cancelled a 2010 show in St Louis, after a pigeon kept pooping on Jared Followhill|Kings of Leon|Arcade Fire|Vampire Weekend|Strokes|2
+Musics|What year did the CD become available in the United States|1983|1980|1985|1979|2
+Musics|What electro house music outfit from France did the score for 'Tron: Legacy'|Daft Punk|Skrillex|DJ Tiesto|Deadmau5|2
+Musics|Lars Ulrich is the drummer for which legendary heavy metal band|Metallica|Alice In Chains|MegaDeth|Slaver|2
+Musics|What nationality is singer Bryan Adams|Canadian|English|American|Australian|1
+Musics|Who has been given the tag of 'King Of Pop'|Michael Jackson|Briteny Spears|Justin Beiber|Justin Timberlek|1
+Musics|Who sang the '8 Mile Road'|Eminem|Nelly|Shaggy|Will Smith|1
+Musics|'Hotel California' is the song of which band|The Eagles|The Beetels|Scorpions|Led Zeppelin|1
+Musics|Who sings the hit song from 2010 called "Bulletproof"|La Roux|Melanie Fiona|Inna|Alexandra Burke|1
+Musics|Who had a hit in 2010 titled "Cooler Than Me"|Mike Posner|Travie McCoy|David Guetta|Bruno Mars|1
+Musics|Which Lady Gaga hit mentions a disco stick several times|LoveGame|Just Dance|Paparazzi|Poker Face|1
+Musics|Who won 2005's fourth season of American Idol|Carrie Underwood|Chris Daughtry|Anwar Robinson|Bo Bice|1
+Musics|Who finished second to David Cook in American Idol's seventh season|David Archuleta|Brooke White|Jason Castro|Syesha Mercado|2
+Musics|What kind of "desires" did Muse sing about in their 2010 hit|Undisclosed|Secret|Unforgiving|Tempting|1
+Musics|Who was the featured vocalist in Fat Joe's 2002 hit "What's Luv"|Ashanti|Jennifer Lopez|Kelly Rowland|Beyonce|1
+Musics|Who was Paul McCartney's duet partner in the hit "Say Say Say"|Michael Jackson|Luther Vandross|Stevie Wonder|Smokey Robinson|1
+Musics|For what group was Belinda Carlisle the lead singer|The Go-Go's|Berlin|The Pretenders|The Bangles|2
+Musics|Who had an album titled "Are You Experienced"|Jimi Hendrix|Eric Clapton|Ringo Starr|Bob Dylan|1
+Musics|Who played Selena in the 1997 movie "Selena"|Jennifer Lopez|Gloria Estefan|Shakira|Paulina Rubio|1
+Musics|Who sang the 2005 hit "Honky Tonk Badonkadonk"|Trace Adkins|Toby Keith|Kenny Chesney|Alan Jackson|1
+Musics|What group included members Ric Ocasek and Benjamin Orr|The Cars|Yes|Boston|Paper Lace|2
+Musics|Who wrote the Bangles hit song "Manic Monday"|Prince|Stevie Wonder|Phil Collins|Michael Jackson|2
+Musics|Who had a hit song in 1979 with "Sultans Of Swing"|Dire Straits|The Who|The Rolling Stones|Mozart|1
+Musics|What city is the rock band Boston from|Boston|Baltimore|Providence|New York|1
+Musics|“Penny Lover” was a 1984 hit for what R&B singer|Lionel Richie|Patti LaBelle|Peabo Bryson|Jeffrey Osborne|1
+Musics|What group consisted of brother Brian, Carl, and Dennis Wilson|The Beach Boys|The Doobie Brothers|The Bee Gees|The Temptations|2
+Musics|What song propelled Owl City to fame in 2009 and 2010|Fireflies|Tik Tok|Undisclosed Desires|Kings And Queens|1
+Musics|Who had a hit song in 2010 titled "Just The Way You Are"|Bruno Mars|OneRepublic|Jason Derulo|B.o.B.|1
+Musics|Who had a hit in 2010 called "This Afternoon"|Nickelback|Lifehouse|Train|Jack Johnson|1
+Musics|Who sings "Empire State of Mind II (Broken Down)"|Alicia Keys|Beyonce|Fergie|Pink|1
+Musics|What rock band has had hits with "Uprising" and "Resistance"|Muse|Green Day|Breaking Benjamin|30 Seconds To Mars|1
+Musics|Who sings the 2010 hit "Not Myself Tonight"|Christina Aguilera|Lady GaGa|Kelly Clarkson|Alicia Keys|1
+Musics|Who is the featured artist in Timbaland's hit "If We Ever Meet Again"|Katy Perry|Beyonce|Gwen Stefani|Rihanna|2
+Musics|Who had a hit in 2010 with "Rude Boy"|Rihanna|Beyonce|Lady GaGa|Christina Aguilera|1
+Musics|On what song did Lady GaGa and Beyonce team up on in their 2010 hit|Telephone|Sweet Dreams|Bad Romance|Paparazzi|1
+Musics|Who paired with Katy Perry in "California Gurls"|Snoop Dogg|Diddy|Ludacris|Iyaz|1
+Musics|What was the subtitle of Shakira's hit "Waka Waka"|This Time For Africa|Kick That Ball|South Africa|Goal!!!|1
+Musics|Who had a dance hit in 2010 with "Gettin' Over You"|David Guetta|Christina Aguilera|Cascada|Black Eyed Peas|1
+Musics|Who has had hit with "Whataya Want From Me"|Adam Lambert|Chris Allen|Jay-Z|John Mayer|1
+Musics|Who is married to entertainer Russell Brand|Katy Perry|Kesha|Christina Aguilera|Lady GaGa|1
+Musics|What band had a hit with "Closer To The Edge"|30 Seconds To Mars|Switchfoot|Shinedown|Three Days Grace|1
+Musics|What was the name of Katy Perry's album released in August 2010|Teenage Dream|One Of The Boys|Katy Hudson|Daily Mail|1
+Musics|What was Katy Perry's follow-up hit to "California Gurls"|Teenage Dream|Waking Up In Vegas|I Kissed A Girl|Firework|1
+Musics|In her 2010 hit, Miley Cyrus said that she couldn't be what|Tamed|Loved|Held|Captured|1
+Musics|Fill in the blank of this 2010 hit by Sugarland: "Stuck Like _____"|Glue|Oil|Molasses|Flypaper|1
+Musics|Who teamed with John Mayer on "Half Of My Heart"|Taylor Swift|Martina McBride|Carrie Underwood|Miranda Lambert|1
+Musics|In his 2010 single, Eminem said he was "Not ____"|Afraid|Ashamed|Alarmed|Altered|1
+Musics|Three Days Grace' 2010 hit rock song is titled "The Good____”|Life|Girl|One|Book|2
+Musics|The Stone Temple Pilots 2010 hit song is called "Between The ____"|Lines|Colors|Love|Fighting|1
+Musics|What other names are mentioned in Lady GaGa's hit song "Alejandro"|Fernando & Roberto|Domingo & Luis|Emilio & Gustavo|Alberto & Alfonso|2
+Musics|What kind of romance did Lady GaGa have in her big 2009-2010 hit|Bad|Loving|Heavenly|Great|1
+Musics|What music artist was #1 in 2010 on Maxim magazine's Hot 100|Katy Perry|Rihanna|Nicole Scherzinger|Christina Aguilera|3
+Musics|In her 2010 hit, what did Alicia Keys suggest to try sleeping with|A Broken Heart|A Dark Moon|A Shameful Night|A Video Phone|1
+Musics|What 2010 hit by Taylor Swift is on her album of the same title|Fearless|White Horse|Love Story|You Belong With Me|2
+Musics|Who hit the charts in 2010 with will.i.am on "OMG"|Usher|Beyonce|Alicia Keys|Taio Cruz|1
+Musics|Who sang in 2010 about her "Louboutins"|Jennifer Lopez|Lady GaGa|Beyonce|Shakira|1
+Musics|Train had a hit in 2009-2010 with "Hey, ____ Sister"|Soul|There|Sad|You|1
+Musics|In her 2010 hit, what did Kesha say was her drug|Your Love|Sleep|Sports|Her Car|1
+Musics|Who sang the 2009-2010 hit song "Tik Tok"|Kesha|Pink|Avril Lavigne|Christina Aguilera|1
+Musics|Who had the 2010 hit "Dynamite"|Taio Cruz|Travie McCoy|B.o.B|Drake|1
+Musics|Who has the hit song "Imma Be"|Black Eyed Peas|B.o.B|Jason Derulo|Jay-Z|1
+Musics|What band has albums titled "Cousins" and "Vampire Weekend"|Vampire Weekend|Hot Chip|Lostprophets|Editors|1
+Musics|Who teamed with Eminem on his 2010 song "Love The Way You Lie"|Rihanna|Kesha|Beyonce|Lady GaGa|1
+Musics|What song does Jay-Z sample in his 2009 hit "Young Forever"|Forever Young|Blue Monday|Small Town Boy|Chains Of Love|1
+Musics|One of Jason DeRulo's hit songs is named "Ridin' ____"|Solo|Shotgun|With You|High|2
+Musics|Who did Katy Perry say she kissed in her 2008 hit|A Girl|A Boy|An Alien|An Animal|1
+Musics|What song was a hit for both Madonna and Kelly Osbourne|Papa Don't Preach|Live To Tell|Justify My Love|Hanky Panky|1
+Musics|What band released the album "21st Century Breakdown" in 2009|Green Day|U2|Coldplay|Radiohead|1
+Musics|Who had a big hit with "My Life Would Suck Without You" in 2009|Kelly Clarkson|Jordin Sparks|Katy Perry|Lady GaGa|3
+Musics|Who sang lead vocals with Jay-Z rapping in "Umbrella"|Rihanna|Estelle|Leona Lewis|Natasha Bedingfield|1
+Musics|Who won a Song of the Year Grammy Award in 2001 for "Beautiful Day"|U2|Coldplay|Rob Thomas|Radiohead|1
+Musics|What pop group includes members will.I.am and Fergie|Black Eyed Peas|Yeah Yeah Yeahs|The Fugees|The White Stripes|1
+Musics|Who is the lead singer of Evanescence|Amy Lee|Chrissie Hynde|Ann Wilson|Shirley Manson|1
+Musics|Who played the part of the "Uptown Girl" in Billy Joel's music video|Christie Brinkley|Elle MacPherson|Farrah Faucett|Cheryl Tiegs|1
+Musics|What pop trio starred in Disney TV movies|The Cheetah Girls|Spice Girls|They Might Be Giants|Aly & AJ|1
+Musics|What athlete is married to Spice Girl Posh|David Beckham|Tom Brady|Kobe Bryant|Alex Rodriguez|1
+Musics|Which singer starred in the 2003 movie "Gigli"|Jennifer Lopez|Whitney Houston|Mariah Carey|Chantay Savage|3
+Musics|Actress Liv Tyler’s father is the lead singer of what group|Aerosmith|The Who|Led Zeppelin|Rolling Stones|1
+Musics|What kind of "Story" did Taylor Swift tell in her 2009 hit|Love|Teenage|Crazy|Heartbreak|1
+Musics|Who is the lead singer of Coldplay|Chris Martin|Pete Wentz|Thom Yorke|Patrick Stump|1
+Musics|Which singer was the star of the TV show "Doc"|Billy Ray Cyrus|Vince Gill|Ricky Van Shelton|Toby Keith|2
+Musics|Who had a big dance hit in 2002 with "Can't Get You Out Of My Head"|Kylie Minogue|Pink|Shakira|Celine Dion|1
+Musics|What song was sampled in Shaggy's hit "Angel"|Angel Of The Morning|Sweet Angel|Angels In Heaven|Your mine Angel|1
+Musics|What kind of face did Lady GaGa say she had in her 2009 hit|Poker Face|Smiley Face|Funny Face|Angry Face|1
+Musics|Who had a hit with "Don't Stop The Music" in 2008|Rihanna|Pink|Lady GaGa|Britney Spears|1
+Musics|Who had a #1 Billboard hit with "Beautiful Girls" in 2007|Sean Kingston|Justin Timberlake|Elliott Yamin|Maroon 5|1
+Musics|What artist had a hit in 2004 with "Toxic"|Britney Spears|Christina Aguilera|Missy Elliott|Mariah Carey|1
+Musics|Who sings "I knew you were trouble"|Taylor Swift|Bridgit Mendler|Olly Murs|One Direction|1
+Musics|Which of the following can be associated with Justin Timberlake|Suit and tie|Wine and cheese|Pants and shirt|Salt and pepper|1
+Musics|Who recorded the song "Heat Attack" in 2013|Demi Lovato|Marianas Trench|Little Mix|Bad Rabbits|1
+Musics|Who sings the hit pop song "Come & Get It"|Selena Gomez|Bridgit Mendler|Demi Lovato|Avril Lavigne|1
+Musics|Who was named Artist of the Year at the 2013 American Music Awards|Taylor Swift|Bruno Mars|Rihanna|Ryan Lewis|1
+Musics|Which Disney TV show starred Demi Lovato|Sonny with a Chance|Hannah Montana|Lizzie McGuire|That's So Raven|1
+Musics|What is Jay-z’s real name|Shaun Carter|David Bowie|Lucille|Led Zeppelin|2
+Musics|Alecia Beth Moore is better known by which stage name|Pink|Kate Marie Nash|Debbie Harry|Lady Gaga|2
+Musics|Which Kardashian sister is Kanye West currently dating|Kim|Khloe|Kourtney|Katherine|1
+Musics|Who's the singer of Gangnam Style|Psy|Zym|Aux|Joe|1
+Musics|Who had a hit with this song "Diamonds"|Rihanna|One Direction|Train|Jennifer Lopaz|1
+Musics|How many brothers were in the original Jackson family line up|five|six|seven|four|1
+Musics|Which group were fronted by Jon Bon Jovi|Bon Jovi|Jon Bovi|Bovi Jon|Joni Bon|1
+Musics|Who sang with Elton John on Don't Let the Sun Go Down on Me|George Michael|Richard Marx|Elvis Presley|Elton John|1
+Musics|What was the title of the first album from The Spice Girls|Spice|Grill|Paper|Salt|1
+Musics|Which artist has spent most weeks in the UK top ten|Elvis Presley|George Michael|Bon Jovi|Gregory Abbott|1
+Musics|Who first charted as a solo performer with Careless Whisper|George Michael|Michael Jackson|Shawn Carter|Cornell Hayes|1
+Musics|For what song did Eric Clapton win a Grammy Award in 1993|Tears In Heaven|Layla|I Can't Stand It|My Father's Eyes|1
+Musics|Who had a hit "on the floor" in 2011|Jennifer Lopaz|Lady Gaga|Rihanna|Madonna|1
+Musics|Name of the Artist performed in "Wrecking Ball" song|Miley Cyrus|Demi Lovato|Jasmine Villegas|Selena Gomez|1
+Musics|Who sings the song "Whistle"|Flo Rida|One Direction|Tyga|Maroon 5|1
+Musics|"Call Me Maybe", is sung by who|Carly Rae Jepson|Cher Lloyd|Katy Perry|Demi Lovato|1
+Musics|Who sings "Sexy And I Know It"|LMFAO|Maroon 5|Usher|Train|1
+Musics|"Blow Me (One Last Kiss)", is sung by who|P!nk|Katy Perry|Demi Lovato|Cher Lloyd|1
+Musics|Who sings the song "As Long As You Love Me"|Justin Bieber|Usher|Stephen Harper|Justin Timberlake|1
+Musics|Who is the song "Wide Awake" sung by|Katy Perry|Rihanna|Cher Lloyd|P!nk|1
+Musics|"Too Close",is sung by who|Alex Clare|Calvin Harris|Justin Bieber|Flo Rida|1
+Musics|Which rapper's real name is Marshall Mathers III|Eminem|Jay-Z|Ludacris|Diddy|2
+Musics|What was the hit song that came from the movie "Slumdog Millionaire"|Jai Ho!|Zero|Russian Roulette|You Belong With Me|1
+Musics|Who sang the hit "Behind These Hazel Eyes"|Kelly Clarkson|Pink|Gwen Stefani|Kylie Minogue|1
+Musics|Who won a Song of the Year Grammy Award in 2008 for "Rehab"|Amy Winehouse|Duffy|Adele|Corinne Bailey Rae|1
+Musics|From what movie did "Jai Ho!" win a Best Original Song Academy Award|Slumdog Millionaire|August Rush|WALL-E|Dreamgirls|1
+Musics|In 2008, One Republic asked you to "Stop And ____"|Stare|Fall|Rise|Go|2
+Musics|What is the real name of Posh Spice|Victoria Beckham|Melanie Chrisholm|Emma Bunton|Geri Halliwell|1
+Musics|What color was the flag in Dido's big radio hit|White|Grey|Black|Blue|1
+Musics|What rap artist had a hit in 2002 with "Hot In Herre"|Nelly|50 Cent|Ludacris|Jay-Z|1
+Musics|Who is the father of Miley Cyrus|Billy Ray Cyrus|Jimmy Cyrus|Bob Cyrus|Jeffrey Cyrus|1
+Musics|Who was the drummer for Nirvana who later formed the Foo Fighters|Dave Grohl|Chris Novoselic|Richie Sambora|Kurt Cobain|3
+Musics|What rap artist was part of D12's lineup in the early 2000s|Eminem|Mos Def|Snoop Dogg|Big Boi|2
+Musics|Who is the lead singer for Pearl Jam|Eddie Vedder|Scott Weiland|Layne Staley|Isaac Slade|1
+Musics|What rapper starred in the 2002 movie "8 Mile"|Eminem|Jay-Z|Ludacris|Nas|1
+Musics|Who was the winner of the first season of "American Idol"|Kelly Clarkson|Clay Aiken|Jordin Sparks|Rubben Studdard|1
+Musics|What TV show and movie was singer Hilary Duff a part of from 2001-2003|Lizzie McGuire|Hannah Montana|Jonas|That's So Raven|1
+Musics|What artist had an album and a tour titled "Best Of Both Worlds"|Miley Cyrus|Selena Gomez|Demi Lovato|Kelly Clarkson|1
+Musics|Who had a big hit in 2002 with "Complicated"|Avril Lavigne|Michelle Branch|Vanessa Carlton|Natalie Imbruglia|1
+Musics|Who was the featured vocalist in Nelly's 2002 hit "Dilemma"|Kelly Rowland|Beyonce|Ashanti|Jennifer Lopez|1
+Musics|What is singer Beyonce's last name|Knowles|James|Nova|Wilson|1
+Musics|Who teamed with Justin Timberlake in "4 Minutes"|Madonna|Mariah Carey|Rihanna|Lady GaGa|2
+Musics|Who was the female vocalist on Jay-Z's 2009 hit "Empire State Of Mind"|Alicia Keys|Lady GaGa|Beyonce|Whitney Houston|2
+Musics|What was Diddy known as when he had his first US radio hit|Puff Daddy|P. Diddy|Did Man|Big Daddys|2
+Musics|Who had a big hit with "Halo" in 2009|Beyonce|Jordin Sparks|Lady GaGa|Katy Perry|1
+Musics|What band has albums titled "Cousins" and "Vampire Weekend"|Vampire Weekend|Lostprophets|Editors|Hot Chip|1
+Musics|Who married Jennifer Lopez in 2004|Marc Anthony|Ricky Martin|Ty Herndon|Will Smith|1
+Musics|Who has had hit songs with "Womanizer" and "Toxic"|Britney Spears|Janet Jackson|Beyonce|Katy Perry|1
+Musics|Who had a big pop hit in 2006 with "Walk Away"|Kelly Clarkson|Jennifer Lopez|Gwen Stefani|Mariah Carey|2
+Musics|For what song did Eminem win an Academy Award for Best Original Song|Lose Yourself|When I'm Gone|My Name Is|Superman|1
+Musics|Who won a Song of the Year Grammy Award in 2009 for "Viva La Vida"|Coldplay|Jason Mraz|U2|Shaggy|1
+Musics|Gwyneth Paltrow married the singer from what band|Coldplay|Radiohead|Kings Of Leon|U2|3
+Musics|What country artist married Trisha Yearwood in 2005|Toby Keith|Kenny Chesney|Garth Brooks|Alan Jackson|3
+Musics|What was the name of the Jay-Z/Linkin Park collaboration from 2004|Numb/Encore|Collaboration|Me Against The Music|The Black Album|1
+Musics|Who was the featured vocalist in T.I.'s hit "Dead And Gone"|Justin Timberlake|Chris Martin|Akon|Kanye West|2
+Musics|What rapper starred in the 2005 movie "Get Rich Or Die Tryin'"|50 Cent|Jay-Z|P. Diddy|Ludacris|3
+Musics|What is the first name of the lead singer of the band "Daughtry"|Chris|Jay|Adam|Rob|2
+Musics|Who sang the 2002 hit "All You Wanted"|Michelle Branch|Natalie Imbruglia|Avril Lavigne|Vanessa Carlton|3
+Musics|Who sang the 2002 hit "A Thousand Miles"|Vanessa Carlton|Michelle Branch|Natalie Imbruglia|Avril Lavigne|1
+Musics|Who had a hit in 2009 with "Boom Boom Pow"|The Black Eyed Peas|Timbaland|Madonna|Justin Timberlake|1
+Musics|What is the real name of The Fresh Prince|Will Smith|Mos Def|Quincy Jones|DJ Jazzy Jeff|3

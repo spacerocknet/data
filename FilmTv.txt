@@ -1,0 +1,184 @@
+Film/Tv|Which country is Jean Claude Van Damme came from|Belgium|France|Italy|Netherlands|2
+Film/Tv|Which film company has a mountain as its logo|Paramount|Universal|MGM|United Artists|1
+Film/Tv|Which monster did the makers of Independence Day|Resurrect|Godzilla|Pokemon|Jurassic Park|1
+Film/Tv|Who is the most nominated actor in Academy history|Jack Nicholson|Laurence Olivier|Laurence Olivier|Paul Newman|3
+Film/Tv|Which is the shortest movie to win Best Picture|Marty|Midnight Cowboy|Annie Hall|Sunrise|2
+Film/Tv|Which animated feature has been nominated for Best Picture|Beauty and the Beast|the incredible|The Lion King|Toy Story|1
+Film/Tv|Who is the only American female to be nominated for Best Director|Sofia Coppola|Penny Marshall|Mira Nair|Julie Taymor|2
+Film/Tv|Who is the oldest performer to win Best Actress|Jessica Tandy|Judi Dench|Helen Mirren|Carmen Maura|3
+Film/Tv|Which movie won the most Oscars without winning the top award|Cabaret|Doctor Zhivago|The King and I|star wars|2
+Film/Tv|Which western most recently won Best Picture|Unforgiven|Tombstone|Dances With Wolves|Dances With Wolves|1
+Film/Tv|Who has won the most Oscars for Best Director|John Ford|William Wyler|Frank Capra|billy Wilder|2
+Film/Tv|Who was the first actor or actress to win two consecutive Oscars|Luise Rainer|Katharine Hepburn|Spencer Tracy|Jason Robards|2
+Film/Tv|Which is the only movie with three Best Supporting Actress nominations|Tom Jones|On Golden Pond|Fried Green Tomatoes|Dreamgirls|2
+Film/Tv|Which Hitchcock film was given a limited 3-D release upon its opening|Dial M For Murder|rear Window|The Birds|Vertigo|3
+Film/Tv|What was the first feature film that Jennifer Lopez appeared in|My Little Girl|My Family|Selena|U Turn|1
+Film/Tv|Which of the following films can NOT be considered a 'film noir|The Lady Eve|The Maltese Falcon|The Maltese Falcon|The Maltese Falcon|3
+Film/Tv|What US state was the locale for the horror film Children of the Corn|Nebraska|Missouri|Mississippi|Maryland|3
+Film/Tv|What was the last film made by elusive star Greta Garbo|Two-Faced Woman|Ninotchka|Conquest|Anna Karenina|2
+Film/Tv|Which film is considered the first feature-length science-fiction film|Aelita|High Treason|Woman in the Moon|Metropolis|2
+Film/Tv|Which actor has the record for the most consecutive Oscar nominations|Marlon Brando|Richard Burton|Russell Crowe|Spencer Tracy|1
+Film/Tv|What was Tom Cruise's feature film debut|Endless Love|The Outsiders|Risky Business|Taps|1
+Film/Tv|What was the last film Charlie Chaplin made in the United States|Limelight|Monsieur Verdoux|A King in New York|The Great Dictator|1
+Film/Tv|Which Bette Davis film suffered the most Oscar snubs - 9 of them|The Little Foxes|Now, Voyager|The Letter|Dark Victory|2
+Film/Tv|When was the first movie theater opened|1905|1897|1916|1921|3
+Film/Tv|How much was Judy Garland paid for The Wizard of Oz|$35 a week|$10 a day|$100 a day|$240 a week|2
+Film/Tv|Which candy did the boy in E.T. use to lure the extraterrestrial|Reese's Pieces|Milk Duds|M&M's|Gummy Bears|1
+Film/Tv|Which first movie of Pixar had received a higher rating than G|The Incredibles|A Bug's Life|Toy Story|WALL-E|1
+Film/Tv|Which of these men have not played James Bond|Sylvester Stallone|Pierce Brosnan|Sean Connery|Timothy Dalton|1
+Film/Tv|Which Adam Sandler comedy featured Bob Barker's big screen debut|Happy Gilmore|Billy Madison|Mr. Deeds|The Wedding Singer|1
+Film/Tv|What city must a movie play in to be eligible for an Oscar|Los Angeles|Chicago|Miami|New York|2
+Film/Tv|What is the first Arnold Schwarzenegger movie to win four Academy Awards|Terminator 2|Terminator|Total Recall|True Lies|1
+Film/Tv|Who is the voice of Woody in Toy Story|Tom Hanks|Tim Allen|Jim Carrey|Don Rickles|1
+Film/Tv|Which was the first animated film to be nominated for an Oscar|Beauty and the Beast|The Lion King|The Little Mermaid|Toy Story|1
+Film/Tv|What is the name of the skunk in Bambi|Flower|Belle|Stinky|Stripes|1
+Film/Tv|What kind of animal does Jasmine have for a pet in Aladdin|Tiger|Mouse|Monkey|Cat|1
+Film/Tv|Who played Forrest Gump's mother|Sally Field|Geena Davis|Carrie Fisher|Sissy Spacek|2
+Film/Tv|What was Private Ryan's first name in Saving Private Ryan|James|Jack|Jimmie|Joseph|1
+Film/Tv|Who stars with Will Smith in Men in Black|Tommy Lee Jones|Tom Hanks|Martin Lawrence|Bruce Willis|1
+Film/Tv|Which movie has the exact same final dance scene as Sleeping Beauty|Beauty and the Beast|Snow White|The Little Mermaid|The Princess Bride|1
+Film/Tv|What kind of animal was Baloo in The Jungle Book|Bear|Chimpanzee|Lion|Tiger|1
+Film/Tv|Sarah Connor is a key character in which movie franchise|Terminator|Austin Powers|Mission: Impossible|Harry Potter|1
+Film/Tv|Which Avengers superhero is played by Chris Hemsworth|Thor|Iron Man|Captain America|Incredible Hulk|1
+Film/Tv|What is the name of the title character in Anchorman|Ron Burgundy|Ron Malbec|Ron Merlot|Ron Bordeaux|1
+Film/Tv|Which historic Queen was played on-screen by Elizabeth Taylor|Cleopatra|Victoria|Catherine the Great|Queen of Sheba|1
+Film/Tv|Who played the Terminator in 1984, 1991 and 2003|Schwarzenegger|Sylvester Stallone|Christopher Walken|Edward Norton|1
+Film/Tv|Who played Erin Brockovich in the 2000 film Erin Brockovich|Julia Roberts|Kirsten Dunst|Susan Sarandon|Kate Winslet|1
+Film/Tv|Tobey Maguire plays which Super-Hero|Spider-Man|Iron Man|Superman|Batman|1
+Film/Tv|Which actress plays Gracie Hart in the Miss Congeniality films|Sandra Bullock|Renee Zellweger|Nicole Kidman|Susan Sarandon|1
+Film/Tv|Rachel Weisz starred with Brendan Fraser in which 1999 adventure film|The Mummy|George of the Jungle|Enemy at the Gates|Talk to Her|1
+Film/Tv|Mel Gibson played Martin Riggs in which series of films|Lethal Weapon|Mad Max|Star Wars|Panic Room|1
+Film/Tv|Who plays Tony Stark/Iron Man in the 2008 film Iron Man| Robert Downey Jr.|Jake Gyllenhaal|Patrick Swayze|Hugh Grant|1
+Film/Tv|Who played Catwoman in the 1992 film Batman Returns|Michelle Pfeiffer|Halle Berry|Julie Newmar|Renee Zellweger|1
+Film/Tv|What was Herbie|A Car|A Bike|A Boat|A Chopper|1
+Film/Tv|The Harry Potter movie series used how many different directors|4|3|2|1|1
+Film/Tv|Which childrenÕs disney film starred Hillary Duff|Lizzie McGuire|Thats So Raven|American Dragon|Hannah Montana|1
+Film/Tv|What specific creature does Indiana Jones hate|Snakes|Scorpions|Spiders|Cockroaches|1
+Film/Tv|What bird is associated with Han SoloÕs ÒMillenniumÓ ship|Falcon|Hawk|Eagle|Sparrow|1
+Film/Tv|What is the meaning of the ÒwonderfulÓ phrase, ÒHakuna MatataÓ|No worries|Why even bother|Live and let live|Live Longer|1
+Film/Tv|What kind of animals starred in the movie Happy Feet|Penguin|Horse|Bear|Tiger|1
+Film/Tv|Which of the following films won the Best Picture Oscar in 1992|Unforgiven|Scent of a Woman|The Crying Game|A Few Good Men|3 
+Film/Tv|Which actor has NOT won an Academy Award for Best Actor|Anthony Quinn|Marlon Brando|Sean Penn|Jack Lemmon|1
+Film/Tv|As of 2014, which director has won the most directing awards with four|John Ford|Stanley Kubrick|Alfred Hitchcock|Steven Spielberg|1
+Film/Tv|Which of these films was not directed by Stephen Spielberg|Saving Private Ryan|War of the Worlds|The Basketball Diaries|Hook|1
+Film/Tv|Which of these movies featured the sport hockey|The Rocket|The Blindside|Friday Night Lights|42|3 
+Film/Tv|Which of these roles won Sandra Bullock an Academy Award |Leigh Anne Tuohy|Gracie Hart|Linda Hanson|Ryan Stone|2
+Film/Tv|Who plays the part of Wally Mars in the movie "The Switch"|Jason Bateman|Christian Slater|Jeff Goldblum|Emilio Estevez|1
+Film/Tv|Whom does Bette Midler play in the movie "Hocus Pocus"|Winifred|Allison|Sarah|Dani|1
+Film/Tv|What is the setting for the movie "The Thing"|The Amazon|The Sahara|Mount Everest|Antarctica|1
+Film/Tv|Where do they find the stargate in the 1994 movie "Stargate"|Egypt|Nevada|England|Brazil|1
+Film/Tv|Which of the following films stars Mel Gibson as Max Rockatansky|The Road Warrior|Waterworld|After Earth|Doomsday|2
+Film/Tv|Who stars as Gordon in the 2012 movie "The Dark Knight Rises"|Gary Oldman|Christian Bale|Tom Hardy|Morgan Freeman|1
+Film/Tv|Whom does Morgan Freeman play in the movie "RED"|Joe Matheson|Frank Moses|William Cooper|Chris Owens|1
+Film/Tv|When was the American science fiction movie "Armageddon" released|1998|2006|1986|1992|1
+Film/Tv|Whom does Ben Affleck play in the movie Argo|Tony Mendez|John Chambers|Lee Schatz|Bob Anders|1
+Film/Tv|"Some guys just can't handle Vegas" is a quote from which film|The Hangover|Analyze This|Office Space|Dude, Where's My Car|1
+Film/Tv|Whom does John Ritter play in the movie "Manhood"|Eli|Jack|Simon|Charlie|1
+Film/Tv|Which of the following movies did not feature Mel Gibson|Ghost|Man Without a Face|Maverick|Get the Gringo|1
+Film/Tv|Who directed the 1997 American drama "Good Will Hunting"|Gus Van Sant|Tom Hanks|Robert Rodat|Stephen Spielberg|2
+Film/Tv|Which James Bond villain was played by Canadian actor Joseph Wiseman|Dr. No|Jaws|Auric Goldfinger|Mr. Big|1
+Film/Tv|As of 2014, how many James Bond movies have been released|23|20|14|17|1
+Film/Tv|In which Bond film did Roger Moore make his debut as James Bond|Live and Let Die|Diamonds Are Forever|The Spy Who Loved Me|Quantum of Solace|1
+Film/Tv|In the Disney classic "The Lion King," what kind of animal was Pumbaa|Warthog|Parrot|Hyena|Elephant|1
+Film/Tv|In the Disney film "Aladdin," what kind of animal was Abu|Monkey|Hamster|Koala bear|Possum|1
+Film/Tv|In the animated adventure film "Tarzan," what type of animal was Trek|Gorilla|Flounder|Hippo|Crocodile|1
+Film/Tv|In the Disney film "Aladdin," what kind of animal was Iago|Parrot|Donkey|Bat|Fox|1
+Film/Tv|In the film "A Bug's Life," what kind of animal was Flik|Ant|Frog|Turtle|Fox|1
+Film/Tv|Who plays the role of virologist in the film "I Am Legend"|Will Smith|Denzel Washington|Alfonso Ribeiro|Jamie Foxx|1
+Film/Tv|Which movie is based on an 1862 novel by Victor Hugo|Les Miserables|Pride and Prejudice|The Three Musketeers|The Man in the Iron Mask|1
+Film/Tv|In the 2012 film, ÒThe HobbitÓ who plays the role of Bilbo Baggins|Martin Freeman|Richard Armitage|Ian McKellen|Ken Stott|1
+Film/Tv|What were the names of Harry's parents in the film "Harry Potter"|Lily and James|Joan and Michael|Lily and John|Lily and Harry|1
+Film/Tv|Who played the role of Batman in the 2005 thriller "Batman Begins"|Christian Bale|George Clooney|Michael Keaton|Ben Affleck|1
+Film/Tv|As of 2013, how many "Saw" movies have been released|7|4|6|3|1
+Film/Tv|"I Believe I Can Fly" Song can be heard during which movie|Space Jam|The American Aviator|Peter Pan|Apollo 13|1
+Film/Tv|"My Heart Will Go On" song is heard during which of these films|Titanic|The Notebook|Alice in Wonderland|The Hobbit|1
+Film/Tv|Who plays the role of Doug Billings in the film "The Hangover"|Justin Bartha|Mike Vallely|Bradley Cooper|Mike Epps|1
+Film/Tv|In the film "Ted", who plays Lori, John's girlfriend|Mila Kunis|Jennifer Hasty|Jessica Birth|Lindsay Sloane|1
+Film/Tv|In "Prince of Persia", what was the item that allowed travel in time|Dagger|Amulet|Arrowhead|Sword|1
+Film/Tv|Who voices Buzz Lightyear from "Toy Story"|Tim Allen|Michael Keaton|Tom Hanks|John Goodman|1
+Film/Tv|Who is the Dean of Monsters University|Abigail Hardscrabble|Chet Alexander|Frank McKay|Dumbledore|1
+Film/Tv|Who voices "Wreck-It-Ralph"|John C. Reilly|Will Ferrell|John Goodman|Alan Tudyk|2
+Film/Tv|What is the name of the hamster friend in the film Bolt|Rhino|Lion|Mammoth|Cougar|2
+Film/Tv|In the film "The Princess and the Frog", what is Tiana's occupation|Waitress|Janitor|Head chef|Dishwasher|1
+Film/Tv|In the 2009 film "Up", who is Dug|A Famous Explorer|A Dog| Boy Scout|A giant bird|1
+Film/Tv|"Invictus", a film directed by Clint Eastwood, is about which sport|Rugby|Cricket|Baseball|Basketball|1
+Film/Tv|How old are the children in the film "Old Dogs"|7|3|12|16|1
+Film/Tv|Whom does Eddie Murphy play in the movie "Daddy Daycare"|Charlie|Marvin|Bruce|Phil|1
+Film/Tv|Who directed the movie "Cheaper by the Dozen"|Shawn Levy|Betty Thomas|Robert Wolterstorff|Penelope Spheeris|1
+Film/Tv|Where does the robbery occur in the film "Brotherhood"|Convenience store|Electronics store|Jewelry store|Bank|1
+Film/Tv|In the film "Django Unchained", where is the bounty hunter from|Germany|Canada|France|Mexico|3
+Film/Tv|Who is the pilot in the 2010 film "Flight"|Whip Whitaker|Tiki Pot|Charlie Andersons|Ken Evans|2
+Film/Tv|In the movie "Scent of a Woman", what is wrong with Frank Slade|Blind|Deaf|Epileptic|Paralysed|1
+Film/Tv|Which of these movies is about an aspiring author|The Help|The Notebook|The Reader|The Black Book|1 
+Film/Tv|Who plays the part of Holly's husband in the movie "P. S. I Love You"|Gerard Butler|Daniel Day Lewis|Matt Damon|Russell Crowe|1
+Film/Tv|What is the setting for the movie "Revolutionary Road"|Connecticut|Cleveland|Syracuse|Minneapolis|2
+Film/Tv|In the movie the "Black Stallion", where does Alex first see the horse|On a ship|At a neighbor's farm|At the track|Running wild|1
+Film/Tv|Where is the "Best Little Whorehouse in Texas" located|Outside Gilbert|North of Austin|South of El Paso|Near Dallas|1
+Film/Tv|Who does Dolly Parton play in the movie Nine to Five|Doralee Rhodes|Judy Bernly|Missy Hart|Violet Newstead|1
+Film/Tv|Who plays Eula Goodnight in the movie "Rooster Cogburn"|Katherine Hepburn|Elizabeth Taylor|Bernadette Peters|Doris Day|1
+Film/Tv|Who gives Dudley a tail in the Harry Potter movie|Hagrid|Dobby|Fred Weasley|Dumbledore|1
+Film/Tv|What is wrong with Leonard in the film "Mementos"|Short Term Memory|Blind|Paralysed|Deaf|1
+Film/Tv|Who stars with Morgan Freeman in the movie "Seven"|Brad Pitt|Leonardo DiCaprio|Bruce Willis|Tom Cruise|1 
+Film/Tv|"The Reader" centers on which war|WWII|American Civil War|American Revolution|Vietnam War|1
+Film/Tv|Who directed the film "What's Eating Gilbert Grape"|Lasse Hallstrom|Woody Allen|Sam Mendes|Tom Hanks|1
+Film/Tv|The film "The Prestige" involves two men in what profession|Magicians|Soldiers|Stock Brokers|Golfers|1
+Film/Tv|Underworld is about a feud between the Lycans and what other race|Vampires|Ghouls|Wizards|Mermaids|1
+Film/Tv|In what year was the movie "Avatar" released|2009|2011|2005|2007|1
+Film/Tv|Who wrote the screenplay for movie "Avatar"|James Cameron|Dean Devlin|George Lucas|Andrew Stanton|1
+Film/Tv|Who played Jackie Robinson in the 2013 film "42"|Chadwick Boseman|Dennis Haysbert|Wesley Snipes|Lucas Black|2
+Film/Tv|Which actor was not part of the cast of "Now You See Me" in 2013|Benjamin Bratt|Woody Harrelson|Jesse Eisenberg|Mark Ruffalo|1
+Film/Tv|What is the real name of Eduardo in "Despicable Me 2"|El Macho|Carnival Baker|Victor|Dr. Nefario|1
+Film/Tv|Who plays Gretel in 2013's "Hansel and Gretel: Witch Hunters"|Gemma Arterton|Jennifer Connelly|Jena Malone|Jennifer Jason Leigh|2
+Film/Tv|What identity was stolen in 2013's "Identity Thief"|Sandy Patterson|Leslie Cornish|Brett Reilly|Chris Casey|1
+Film/Tv|In 2013's "American Hustle", who plays politician Carmine Polito|Jeremy Renner|Robert De Niro|Paul Herman|Anthony Hopkins|1
+Film/Tv|What role does Halle Berry's character play in 2013's "The Call"|9-1-1 Operator|Supervisor|Private Investigator|Police Officer|1
+Film/Tv|What is the name of the primary villain in "Iron Man 3"|The Mandarin|The Shade|Ivan Vanko|Parallax|1
+Film/Tv|Who won best British female at the 2013 Brit Awards|Emeli Sande|Adele|Paloma Faith|Emma Stone|1
+Film/Tv|What was the world's highest grossing animated movie in 2013|Despicable Me 2|Monsters University|The Croods|Frozen|1
+Film/Tv|Which film won Best Animated Film at the Oscars|Brave|Despicable Me 2|Epic|Free Birds|1
+Film/Tv|In ÒTrading Places,Ó what were the wealthy Duke brothersÕ first names|Randolph & Mortimer|Rudolph & Randolph|Mortimer & Michael|Randolph & Michael|2
+Film/Tv|In ÒDumb and Dumber,Ó what does Lloyd spike HarryÕs drink with|Turbo Lax|Alcohol|Sleep-All-Nite|Salt|1
+Film/Tv|What is Bill MurrayÕs occupation in Groundhog Day|Meteorologist|Schoolteacher|Dentist|Salesman|1
+Film/Tv|What is Napoleon DynamiteÕs favorite sport|Tetherball|Volleyball|Bocce Ball|Racquetball|1
+Film/Tv|In ÒWedding Crashers,Ó what does Will FerrellÕs character crash|Funerals|Baby showers|Bar Mitzvahs|Graduation parties|1
+Film/Tv|Which Disney film does the song 'Circle of Life' come from|The Lion King|Frozen|Pirate Fairy|Jungle Book|1
+Film/Tv|What is the name of the planet that Superman comes from|Krypton|Oxten|Platon|Myton|1
+Film/Tv|Who played Fred Flintstone in the 1994 film ÔThe FlintstonesÕ|John Goodman|Brad Pitt|Christian Bale|Harrison Ford|1
+Film/Tv|What is the sub-title of the 1984 film ÔStar Trek 3'|The Search For Spock|The Phantom Menace|The Clone Wars|Revenge of The Sith|1
+Film/Tv|Which actor played the President in the 1997 film ÔAir Force OneÕ|Harrison Ford|Tom Hanks|Tom Hiddleston|Jack Nicholson|1
+Movies|Who directed 'Avatar' in 2009|James Cameron|Werner Herzog|Sam Raimi|Kathryn Bigelow|1
+Movies|Who is the director of the 2010 movie 'Kick Ass'|Mathew Vaughn|Spike Lee|Ridley Scott|Peter Jackson|1
+Movies|In 'Men in Black 3', if Will Smith is 'J', Tommy Lee Jones is 'K', who is 'O'|Emma Thompson|Nicolas Cage|Josh Brolin|Lady Gaga|1
+Movies|'True Lies' was directed by which of the following|James Cameron|Jan de Bont|John McTiernan|Tony Scott|1
+Movies|Which actor is the voice of Lightening McQueen in the 2011 movie 'Cars 2'|Owen Wilson|Charlie Sheen|Clive Owen|Liam Neeson|1
+Movies|Who plays the role of Iron Man in 'The Avengers'|Robert Downey Jr|Mark Ruffalo|Christian Bale|Brandon Routh|1
+Movies|In 'Iron Man 3', what is the name of the experimental regenerative drug created by Dr. Killian|Extremis|Vitalis|J.A.R.V.I.S|Payola|1
+Movies|Which of the following is not an Arnold Schwarzegegger film|Cliffhanger|Kindergarten Cop|Conan the Barbarian|The Last Stand|1
+Movies|How many colors are used as 'Mr' aliases in 'Reservoir Dogs'|6|7|8|3|2
+Movies|At the 2009 Golden Globe Awards, who won Best Director for 'Avatar'|James Cameron|Danny Boyle|Steven Spielberg|Martin Scorsese|1
+Movies|Which movie was written Aaron Sorkin|The Social Network|The King's Speech|Brokeback Mountain|Big Fish|1
+Movies|Who directed a 2011 adaptation of 'Jane Eyre' starring Mia Wasikowska|Shana Feste|Cary Fukunaga|Miguel  Arteta|Adam Deacon|2
+Movies|What is the sub-title of the 2002 Lord of the Rings movie|The Two Towers|The Return of the King|Rise of the Witch King|The Fellowship of the Ring|1
+Movies|Who played the role of Bruce Banner in the 2008 film 'The incredible Hulk'|Edward Norton|Tim Roth|Mark Ruffalo|Eric Bana|1
+Movies|Who played Peter Parker in the Spiderman re-boot 'The Amazing Spider-Man'|Andrew Garfield|Johnny Depp|James Marsden|Tobey Maguire|1
+Movies|What actor's younger brother is in the film 'Now You See Me'|James Franco|Al Pacino|Ed Norton|Tobey Maguire|1
+Movies|The 2003 Pixar film, 'Finding Nemo', starred which voice actress as Dory|Ellen DeGeneres|Sarah Silverman|Kathy Griffin|Oprah Winfrey|1
+Movies|Who directed the James Bond film 'Skyfall'|Sam Mendes|James Cameron|Joel Schumacher|Jack Black|1
+Movies|Who plays the wife of Abraham Lincoln in the 2012 movie 'Lincoln'|Sally Field|Kirsten Dunst|Sean Young|Angela Bassett|1
+Movies|How many Academy Awards has the 'Pirates of the Caribbean' series won|1|2|3|0|1
+Movies|What sport did 'Billy Elliot' practice before taking up ballet|Boxing|Roller hockey|Soccer|Tennis|2
+Movies|In the movie 'Shakespeare in Love', Ethel the Pirate's Daughter becomes what heroine|Juliet|Desdemona|Cordelia|Ophelia|2
+Movies|What actor has roles in the movies 'Kingpin', 'Wild Things' and 'What About Bob'|Bill Murray|Richard Dreyfuss|Matt Dillon|Woody Harrelson|1
+Movies|Rutger Hauer stars as the 'Hobo with' what weapon in a 2011 film by Jason Eisener|Shotgun|Rocket Launcher|Butcher Knife|Shovel|1
+Movies|Who played the role of Lois Lane in the 2013 movie 'Man of Steel'|Amy Adams|Diane Lane|Jennifer Lawrence|Anne Hathaway|1
+Movies|Which actor voiced both Winnie Pooh and Tigger in a 2011 film directed by Stephen J. Anderson and Don Hall|Jim Cummings|Travis Oates|John Cleese|Tom Kenny|1
+Movies|Which actor did not reprise his role as Malcom Turner's sidekick John in 'Big Momma's House 2'|Paul Giamatti|Will Ferrell|Rob Schneider|Jeremy Piven|1
+Movies|Which actor in 'This is The End' is possessed by a demon|Jonah Hill|Seth Rogen|Craig Robinson|Jason Segel|1
+Movies|Who starred with Mark Ruffalo in the 2004 romantic comedy '13 Going on 30'|Jennifer Garner|Amy Adams|Jessica Biel|Sarah Jessica Parker|1
+Movies|How many times hs Meryl Streep been nominated for an Oscar|18|17|20|15|1
+Movies|The main characters in 'American Hustle' bond together over their appreciation for whose music|Duke Ellington|Conway Twitty|Count Basie|Ray Charles|1
+Movies|In the film 'The Purge', criminal activity is allowed for how many hours|12|4|20|40|1
+Movies|What type of fish is Nemo in the Pixar film 'Finding Nemo'|Clownfish|Dolphin|Shark|Salmon|1
+Movies|Which Chinese drama saw an American release thanks to a personal intervention by Rupert Murdoch|Snow Flower and the Secret Fan|The Black Rose|Chan is Missing|The Left Hand of God|1
+Movies|What is the sub-title of the 2010 sequel to 'Wall Street'|Money Never Sleeps|Back on the Floor|The Full Force|The City Never Sleeps|1
+Movies|Who directed 'The Wolf of Wall Street'|Martin Scorsese|Peter Jackson|Terence Winter|David O. Russell|1
