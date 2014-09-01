@@ -59,8 +59,8 @@ Sports|The first X Games were held in Rhode Island. When|1995|1985|1970|1990|2
 Sports|In what month is the Super bowl played|February|December|January|May|1
 Sports|What number was worn by baseball's Mickey Mantle, hockey's Phil Esposito, football's John Elway and soccer's David Beckham|7|10|9|11|1
 Sports|What sport is like water skiing on a surfboard|Wakeboarding|Showboating|Powerboating|Waterboarding|1
-Sports|In which year FIFA was founded|1904|1886|1956|1705|3|2
-Sports|How many sports were there in the first Asian Games|6|3|4|5|3|2
+Sports|In which year FIFA was founded|1904|1886|1956|1705|2
+Sports|How many sports were there in the first Asian Games|6|3|4|5|2
 Sports|The Wimbledon Championship is played on|Grass Surface|Yellow Clay|Clay Surface|Hard Courts|2
 Sports|FIFA is related to which sport|Football|Hockey|Tennis|Cricket|1
 Sports|What is the maximum field length of Rugby|100 metres|80 metres|90 metres|110 metres|2
