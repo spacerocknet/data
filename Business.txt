@@ -1,5 +1,5 @@
-Business|What was Henry FordÕs first mass-produced car called|Model N|Model M|Model S|Model T|2
-Business|With what product did the term Òbrand nameÓ originate|Whiskey|Cattle|Gum|Bread|1
+Business|What was Henry Ford's first mass-produced car called|Model N|Model M|Model S|Model T|2
+Business|With what product did the term "brand name" originate|Whiskey|Cattle|Gum|Bread|1
 Business|What was the only product ever promoted by Elvis Presley in a television commercial|Donuts|Radios|Suits|Guitars|3
 Business|Elizabeth Taylor marketed a perfume. Can you name the scent|Passion|Strong|Life|Eternal Heart|1
 Business|In what year was the first American car sold for export|1893|1910|1918|1923|3
@@ -16,7 +16,7 @@ Business|Which company launched the Toughbook CF-C2 laptop|Panasonic|Apple|Dell|
 Business|Who is the COO of Facebook|Sheryl Sandberg|Mark Zuckerberg|Bret Taylor|Sean Parker|1
 Business|Which company acquired travel site Kayak|Priceline|Alibaba|Amazon|E-bay|1
 Business|What is the name of the main office of Pixar called|Steve Jobs Building|Microsoft Building|Apple World|IBM Land|1
-Business|Which phone has become the worldÕs best selling smartphone|Samsung Galaxy S3|iphone 5|Blackberry Z10|Nokia Lumia 925|1
+Business|Which phone has become the world's best selling smartphone|Samsung Galaxy S3|iphone 5|Blackberry Z10|Nokia Lumia 925|1
 Business|Who invented jeans|Levi Straus|Wrangler|Diesel|Calvin Klein|1
 Business|Which Indian IT company is a Joint venture between BT and M&M|Tech Mahindra|Infosys|HCL Technologies|TCS|1
 Business|Which company owns 'Hotmail', the Internet based e-mail system|Microsoft|IBM|Google|Rediff|1
@@ -30,7 +30,7 @@ Business|Who designed the original 1936 Volkswagon|Ferdinand Porche|Peter Faberg
 Business|What is the ticker symbol for Lucent Technologies|LU|L|LCNT|LUC|1
 Business|Which of the following companies is not based in Atlanta, GA|Georgia Pacific|Delta Air Lines|FedEx|Home Depot|1
 Business|Vice President Dick Cheney used to be CEO of which company|Halliburton|Exxon|Texaco|BJ Services|1
-Business|Which is the Tata GroupÕs oldest surviving brand|Taj Palace and Tower|TCS|Tata Motors|Tata Tetley|1
+Business|Which is the Tata Group's oldest surviving brand|Taj Palace and Tower|TCS|Tata Motors|Tata Tetley|1
 Business|What is the name of the mobile company which was acquired by Sony|Ericsson|Nokia|DoCoMo|CellOne|1
 Business|Forester is the name of a car manufactured by|Chevrolet|Ford|BMW|Mitsubishi|1
 Business|Louie Philippe is the brand name of what|Shirt|Paper|Car|Luggage|1
@@ -76,7 +76,7 @@ Business|Which company's motto is - "Where the people meet the people"|Madame Tu
 Business|Who were the first company to sponsor Man United's shirts|Sharp|Kent Wang|J. Press|Thom Browne|1
 Business|Which Swedish car manufacturer once admitted to price fixing in Britain|Volvo|UNO|Vabis|Esther|1
 Business|In marketing terminology, who are known as the ÒBackseat ConsumersÓ|Children|Boys|Girls|Players|2
-Business|Which product was advertised as "99.44% pure, it floatsÓ|Ivory soap|Wesson Oil|Eagle Milk|Pure Health|1
+Business|Which product was advertised as "99.44% pure, it floats"|Ivory soap|Wesson Oil|Eagle Milk|Pure Health|1
 Business|What was the first website to feature a banner ad|Hotwire|Google|Yahoo|Amazon|1
 Business|Who was the co-founder of apple computers|Steve Wozniak|Mark Zuckerberg|Bill Gates|Steve Wonder|1
 Business|Religare mutual fund is owned by which company|Ranbaxy|HSBC|Dodge & Cox|Fidelity Contrafund|2
@@ -86,25 +86,25 @@ Business|What was Cisco's first product|MEIS|Networking Device|Optical Networkin
 Business|What is the name of the financial firm run by Warren Buffet|Berkshire Hathaway|Itau Securities|BlackRock|MSCI|1
 Business|Which billionaire purchased the Washington Post for $250 million|Jeff Bezos|Mark Zuckerberg|Sergey Brin|Sheryl Sandberg|1
 Business|In which country is the world Economic Forum based|Switzerland|France|England|USA|1
-Business|IÕM LOVINÕ IT Ð Goes with which of the following brands|McDonaldÕs|Subway|Pizza Hut|Taco-Bell|1
+Business|"I'M LOVING IT" Goes with which of the following brands|McDonald's|Subway|Pizza Hut|Taco-Bell|1
 Business|Which of these is not a Cavin Kare brand|Dove|Nyle|Chick|Meera|1
-Business|The cookies ÔHide and seekÕ is manufactured by which company|Parle Agro|Britannia|Nestle|ITC|1
+Business|The cookies "Hide and seek" is manufactured by which company|Parle Agro|Britannia|Nestle|ITC|1
 Business|Who is the owner/CEO of Google (Search Engine)|Larry Page|Jimmy Donal|Salar Kamangar|Eric Emerson Schmidt|1
-Business|Who is the president and CEO of ÔAdobe SystemsÕ|Shantanu Narayan|Ian King|Evan G. Greenberg|Dave Peacock|1
+Business|Who is the president and CEO of Adobe Systems|Shantanu Narayan|Ian King|Evan G. Greenberg|Dave Peacock|1
 Business|Jeff Bezos is the founder and CEO of which of the following companies|Amazon.com|Monster.com|Bing.com|AMD|1
 Business|Who among the following is the CEO of Wipro Technolgies |T K Kurien|Azim Premji|Ashok Ganguly|Ratan Tata|1
-Business|Who among the following is the brand ambassador for ÔBoostÕ|Sachin Tendulkar|M.S. Dhoni|Saina Nahiwal|Sania Mirza|1
+Business|Who among the following is the brand ambassador for Boost|Sachin Tendulkar|M.S. Dhoni|Saina Nahiwal|Sania Mirza|1
 Business|Which is the world's most popular brand of Cigarette|Marlboro|Gold Flake|Winston|Newport|1
 Business|Which company owned the ill-fated Titanic|White Star Line|Blue Star Line|Yellow Star Line|Red Star Line|1
 Business|Cole Haan and Dry-Fit is the brands of which company|Nike|Reebok|Adidas|Bugatti|1
 Business|Breitling is the brand of which watch company|Swiss Watches|Rolex|Breguet|Zenith|1
 Business|Which country uses the newly imposed tax loosely called the "Google Tax"|Italy|France|Japan|None of these|1
 Business|What does the CE mark seen in electronics products stand for|Conformite Europeenne|Casual Effect|Count Everything|Collon Ever|1
-Business|'Pegasus', the flying horse, is the logo of what world famous magazine|Reader's Digest|Caijing|ThatÕs Life!|New Idea|1
+Business|'Pegasus', the flying horse, is the logo of what world famous magazine|Reader's Digest|Caijing|That's Life!|New Idea|1
 Business|What was the original name of 'NIKE'|Blue Ribbon Sports|White Ribbon Sports|Orange Ribbon Sports|Red Ribbon Sports|1
 Business|Who is the new brand ambassador of "Micromax"|Hugh Jackman|Brad Pitt|Christian Bale|Vin Diesel|1
 Business|Where are the Head Quarters of Asian Development bank|Manila|Sydney|Paris|Bangkok|2
-Business|Which economist wrote the article ÔThe Nature of the FirmÕ|Ronald Coarse|Arthur Cecil Pigou|Harold Demsetz|Oliver E. Williamson|1
+Business|Which economist wrote the article ÔThe Nature of the Firm'|Ronald Coarse|Arthur Cecil Pigou|Harold Demsetz|Oliver E. Williamson|1
 Business|What was the best-selling automobile in the U.S.in 2012|Toyota Camry|Ford Focus|Nissan Altima|Toyota Prius|1
 Business|In what year did Richard Branson found Virgin Airlines|1984|2004|1974|1994|1
 Business|What name is given to the UK's leading law firms|The Magic Circle|Magnificent Seven|The Famous Five|The Incredible|2
