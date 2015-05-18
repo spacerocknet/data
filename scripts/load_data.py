@@ -52,14 +52,14 @@ def main():
     print options
 
     headers = {'content-type': 'application/json'}
-    url = 'http://localhost:9000/v1/quiz/save'
+    url = 'http://localhost:9000/v1/quiz/add'
 
     file = open(options.location + options.file, 'r')
     i = 1
     for line in file:
        line = line.rstrip('\n')
        category, question, correct_ans, ans1, ans2, ans3, df = line.split("|")
-       payload = {"qid":i,"category":category,"question":question,"correctAns":correct_ans,"ans1":ans1,"ans2":ans2,"ans3":ans3,"df": int(df)}
+       payload = {"qid":i,"category":category,"question":question,"right_answer":correct_ans,"ans1":ans1,"ans2":ans2,"ans3":ans3,"df": int(df)}
        r = requests.post(url, data=json.dumps(payload), headers=headers)
        print r.text     
        i = i + 1

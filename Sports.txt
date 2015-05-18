@@ -100,7 +100,7 @@ Sports|Famous Tennis player Stefan Edberg belongs to|Sweden|Italy|U.K|Norway|2
 Sports|In the game of Volley ball, the number of players on each side is|6|7|11|8|1
 Sports|2010 World Cup football tournament was held in|South Africa|Turin|Germany|Austria|1
 Sports|Mithir Sen is associated with|Swimming|Weighlifting|Volley ball|Hockey|3
-Sports|WorldÕs most ancient game is|Wrestling|Swimming|Running|Boxing|1
+Sports|World's most ancient game is|Wrestling|Swimming|Running|Boxing|1
 Sports|Beighton cup is associated with|Hockey|Football|Volley ball|Basket ball|3
 Sports|2010 Commonwealth Games held in|India|Canada|Britian|Malaysia|1
 Sports|Subroto cup is associated with|Football|Cricket|Chess|Golf|2
